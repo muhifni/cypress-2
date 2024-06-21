@@ -1,0 +1,17 @@
+{
+  "name": "cypress-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:3-techno-app.open": "cypress run --spec cypress/e2e/3-techno-app/*.cy.js",
+    "cy:3-techno-app": "cypress run --headless --spec cypress/e2e/3-techno-app/*.cy.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^13.12.0"
+  }
+}
