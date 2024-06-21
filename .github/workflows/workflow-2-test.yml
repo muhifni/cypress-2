@@ -2,9 +2,9 @@ name: login e2e tests
 on:
   push:
     branches: [main]
-  schedule:
-    # Menjalankan workflow setiap 1 menit
-    - cron: "*/1 * * * *"
+  # schedule:
+  #   # Menjalankan workflow setiap 1 menit
+  #   - cron: "*/1 * * * *"
 
 jobs:
   cypress-run:
