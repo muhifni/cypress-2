@@ -1,5 +1,11 @@
 name: login e2e tests
-on: push
+on: 
+    push: 
+        branches: [main]
+    # schedule: 
+    #     ## Schedule the job to run at 12.am daily.
+    #     - cron: '0 0 * * *'
+
 jobs:
   cypress-run:
     runs-on: ubuntu-22.04
@@ -11,4 +17,4 @@ jobs:
       - name: Cypress run
         uses: cypress-io/github-action@v6
         with:
-            spec: cypress/e2e/3-techno-app/login.cy.js
+          spec: cypress/e2e/3-techno-app/login.cy.js
