@@ -28,3 +28,17 @@ describe("Testing without Isolation", { testIsolation: false }, () => {
     cy.url().should("eq", "https://technoapp.berijalan.id/");
   });
 });
+
+describe("Testing without Isolation V2", { testIsolation: false }, () => {
+  it("Visit Homepage", () => {
+    cy.visit("https://technoapp.berijalan.id/");
+    cy.url().should("eq", "https://technoapp.berijalan.id/");
+  });
+});
+
+describe("Testing with Isolation", () => {
+  it("Visit Homepage", () => {
+    cy.visit("https://technoapp.berijalan.id/");
+    cy.url().should("eq", "https://technoapp.berijalan.id/login");
+  });
+});
