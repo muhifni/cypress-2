@@ -85,6 +85,8 @@ describe("Check-Out Technoapp Peter", { testIsolation: false }, () => {
   before(() => {
     // ensure clean test slate for these tests
     cy.then(Cypress.session.clearCurrentSessionData);
+    cy.clearCookies();
+    cy.clearLocalStorage();
   });
 
   it("Do Login technoApp Peter", () => {
