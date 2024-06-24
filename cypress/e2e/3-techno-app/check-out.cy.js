@@ -37,7 +37,7 @@ before(() => {
 //   );
 // });
 
-describe("Check-Out Technoapp Muhammad Hifni", () => {
+describe("Check-Out Technoapp Muhammad Hifni", { testIsolation: false }, () => {
   before(() => {
     // ensure clean test slate for these tests
     cy.then(Cypress.session.clearCurrentSessionData);
@@ -68,7 +68,7 @@ describe("Check-Out Technoapp Muhammad Hifni", () => {
 
   it("Do Verfication Check-Out Muhammad Hifni", () => {
     cy.visit(
-      "https://technoapp.berijalan.id/absence/checkin",
+      "https://technoapp.berijalan.id/absence/checkout",
       mockLocation(-7.7821796119546764, 110.39548040732839)
     );
     cy.get('input[type="button"][value="Check Out"]');
@@ -102,7 +102,7 @@ describe("Check-Out Technoapp Peter", { testIsolation: false }, () => {
 
   it("Do Check-Out Peter", () => {
     cy.visit(
-      "https://technoapp.berijalan.id/absence/checkin",
+      "https://technoapp.berijalan.id/absence/checkout",
       mockLocation(-7.7821796119546764, 110.39548040732839)
     );
     cy.get('input[type="button"][value="Check Out"]');
@@ -112,7 +112,7 @@ describe("Check-Out Technoapp Peter", { testIsolation: false }, () => {
 
   it("Do Verfication Check-Out Peter", () => {
     cy.visit(
-      "https://technoapp.berijalan.id/absence/checkin",
+      "https://technoapp.berijalan.id/absence/checkout",
       mockLocation(-7.7821796119546764, 110.39548040732839)
     );
     cy.get('input[type="button"][value="Check Out"]');
