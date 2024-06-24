@@ -33,3 +33,18 @@ Cypress.Commands.add("loginUser", (email, password) => {
   cy.get(".login100-form #button-login").click();
   cy.url().should("eq", "https://technoapp.berijalan.id/");
 });
+
+Cypress.Commands.add('visitWithMockLocation', (url, latitude, longitude) => {
+  cy.visit(url, {
+    onBeforeLoad(win) {
+      cy.stub(win.navigator.geolocation, "getCurrentPosition").callsFake(
+        (cb, err) => {
+          if (latitude && longitude) {
+            return cb({ coords: { latitude, longitude } });
+          }
+          throw err({ code: 1 });
+        }
+      );
+    },
+  });
+});

@@ -1,19 +1,3 @@
-function mockLocation(latitude, longitude) {
-  return {
-    onBeforeLoad(win) {
-      cy.stub(win.navigator.geolocation, "getCurrentPosition").callsFake(
-        (cb, err) => {
-          if (latitude && longitude) {
-            return cb({ coords: { latitude, longitude } });
-          }
-
-          throw err({ code: 1 });
-        }
-      );
-    },
-  };
-}
-
 before(() => {
   // set viewport
   cy.viewport(1280, 720);
@@ -59,9 +43,10 @@ describe("Check-Out Technoapp Muhammad Hifni", { testIsolation: false }, () => {
   });
 
   it("Do Check-Out Muhammad Hifni", () => {
-    cy.visit(
+    cy.visitWithMockLocation(
       "https://technoapp.berijalan.id/absence/checkout",
-      mockLocation(-7.7821796119546764, 110.39548040732839)
+      -7.7821796119546764,
+      110.39548040732839
     );
     cy.get('input[type="button"][value="Check Out"]');
     cy.wait(3000);
@@ -69,9 +54,10 @@ describe("Check-Out Technoapp Muhammad Hifni", { testIsolation: false }, () => {
   });
 
   it("Do Verfication Check-Out Muhammad Hifni", () => {
-    cy.visit(
+    cy.visitWithMockLocation(
       "https://technoapp.berijalan.id/absence/checkout",
-      mockLocation(-7.7821796119546764, 110.39548040732839)
+      -7.7821796119546764,
+      110.39548040732839
     );
     cy.get('input[type="button"][value="Check Out"]');
     cy.wait(3000);
@@ -105,9 +91,10 @@ describe("Check-Out Technoapp Peter", { testIsolation: false }, () => {
   });
 
   it("Do Check-Out Peter", () => {
-    cy.visit(
+    cy.visitWithMockLocation(
       "https://technoapp.berijalan.id/absence/checkout",
-      mockLocation(-7.7821796119546764, 110.39548040732839)
+      -7.7821796119546764,
+      110.39548040732839
     );
     cy.get('input[type="button"][value="Check Out"]');
     cy.wait(3000);
@@ -115,9 +102,10 @@ describe("Check-Out Technoapp Peter", { testIsolation: false }, () => {
   });
 
   it("Do Verfication Check-Out Peter", () => {
-    cy.visit(
+    cy.visitWithMockLocation(
       "https://technoapp.berijalan.id/absence/checkout",
-      mockLocation(-7.7821796119546764, 110.39548040732839)
+      -7.7821796119546764,
+      110.39548040732839
     );
     cy.get('input[type="button"][value="Check Out"]');
     cy.wait(3000);
