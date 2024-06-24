@@ -6,7 +6,6 @@ function mockLocation(latitude, longitude) {
           if (latitude && longitude) {
             return cb({ coords: { latitude, longitude } });
           }
-
           throw err({ code: 1 });
         }
       );
@@ -42,8 +41,8 @@ describe("Check-In Technoapp Muhammad Hifni", { testIsolation: false }, () => {
     // ensure clean test slate for these tests
     cy.then(Cypress.session.clearCurrentSessionData);
   });
-  
-  it("Login technoApp", () => {
+
+  it("Do Login technoApp", () => {
     cy.visit("https://technoapp.berijalan.id/login");
     cy.get('.login100-form input[name="email"]').type(
       Cypress.env("email_hifni")
@@ -56,7 +55,7 @@ describe("Check-In Technoapp Muhammad Hifni", { testIsolation: false }, () => {
     cy.url().should("eq", "https://technoapp.berijalan.id/");
   });
 
-  it("Check-In Muhammad Hifni", () => {
+  it("Do Check-In Muhammad Hifni", () => {
     cy.visit(
       "https://technoapp.berijalan.id/absence/checkin",
       mockLocation(-7.7821796119546764, 110.39548040732839)
@@ -66,7 +65,7 @@ describe("Check-In Technoapp Muhammad Hifni", { testIsolation: false }, () => {
     cy.get('input[type="button"][value="Check In"]').click();
   });
 
-  it("Verfication Check-In Muhammad Hifni", () => {
+  it("Do Verfication Check-In Muhammad Hifni", () => {
     cy.visit(
       "https://technoapp.berijalan.id/absence/checkin",
       mockLocation(-7.7821796119546764, 110.39548040732839)
@@ -81,26 +80,26 @@ describe("Check-In Technoapp Muhammad Hifni", { testIsolation: false }, () => {
   });
 });
 
-describe("Check-In Technoapp Muhammad Hifni v2", { testIsolation: false }, () => {
+describe("Check-In Technoapp Peter", { testIsolation: false }, () => {
   before(() => {
     // ensure clean test slate for these tests
     cy.then(Cypress.session.clearCurrentSessionData);
   });
-  
-  it("Login technoApp", () => {
+
+  it("Do Login technoApp Peter", () => {
     cy.visit("https://technoapp.berijalan.id/login");
     cy.get('.login100-form input[name="email"]').type(
-      Cypress.env("email_hifni")
+      Cypress.env("email_peter")
     );
     cy.get('.login100-form input[name="password"]').type(
-      Cypress.env("pass_hifni"),
+      Cypress.env("pass_peter"),
       { log: false }
     );
     cy.get(".login100-form #button-login").click();
     cy.url().should("eq", "https://technoapp.berijalan.id/");
   });
 
-  it("Check-In Muhammad Hifni", () => {
+  it("Do Check-In Peter", () => {
     cy.visit(
       "https://technoapp.berijalan.id/absence/checkin",
       mockLocation(-7.7821796119546764, 110.39548040732839)
@@ -110,7 +109,7 @@ describe("Check-In Technoapp Muhammad Hifni v2", { testIsolation: false }, () =>
     cy.get('input[type="button"][value="Check In"]').click();
   });
 
-  it("Verfication Check-In Muhammad Hifni", () => {
+  it("Do Verfication Check-In Peter", () => {
     cy.visit(
       "https://technoapp.berijalan.id/absence/checkin",
       mockLocation(-7.7821796119546764, 110.39548040732839)
