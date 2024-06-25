@@ -24,17 +24,28 @@
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
 
-Cypress.Commands.add("loginUser", (email, password) => {
-  cy.visit("https://technoapp.berijalan.id/login");
-  cy.get('.login100-form input[name="email"]').type(email);
-  cy.get('.login100-form input[name="password"]').type(password, {
-    log: false,
-  });
-  cy.get(".login100-form #button-login").click();
-  cy.url().should("eq", "https://technoapp.berijalan.id/");
+Cypress.Commands.add("loginTechnoApp", (userName) => {
+  cy.session(
+    userName,
+    () => {
+      const email = Cypress.env(`email_${userName}`);
+      const password = Cypress.env(`pass_${userName}`);
+
+      cy.visit("https://technoapp.berijalan.id/login");
+      cy.get('.login100-form input[name="email"]').type(email);
+      cy.get('.login100-form input[name="password"]').type(password, {
+        log: false,
+      });
+      cy.get(".login100-form #button-login").click();
+      cy.url().should("eq", "https://technoapp.berijalan.id/");
+    },
+    {
+      cacheAcrossSpecs: false,
+    }
+  );
 });
 
-Cypress.Commands.add('visitWithMockLocation', (url, latitude, longitude) => {
+Cypress.Commands.add("visitWithMockLocation", (url, latitude, longitude) => {
   cy.visit(url, {
     onBeforeLoad(win) {
       cy.stub(win.navigator.geolocation, "getCurrentPosition").callsFake(
