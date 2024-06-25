@@ -39,7 +39,7 @@ describe("Check-Out Technoapp Muhammad Hifni", () => {
 
 describe("Check-Out Technoapp Peter", () => {
   it("Do Check-Out Peter", () => {
-    cy.loginTechnoApp("hifni");
+    cy.loginTechnoApp("peter");
     performCheckOut(
       "https://technoapp.berijalan.id/absence/checkout",
       -7.7821796119546764,
@@ -48,7 +48,7 @@ describe("Check-Out Technoapp Peter", () => {
   });
 
   it("Do Verfication Check-Out Peter", () => {
-    cy.loginTechnoApp("hifni");
+    cy.loginTechnoApp("peter");
     performCheckOut(
       "https://technoapp.berijalan.id/absence/checkout",
       -7.7821796119546764,
