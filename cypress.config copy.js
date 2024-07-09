@@ -8,6 +8,7 @@ module.exports = defineConfig({
     },
   },
   env: {
+    WA_TOKEN : '',
     email_hifni: '',
     pass_hifni: '',
   },
