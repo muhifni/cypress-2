@@ -1,0 +1,14 @@
+[
+  {
+    "brand": "Isuzu",
+    "model": "D-Max",
+    "car_name": "Isuzu D-Max",
+    "model_slug": "d-max"
+  },
+  {
+    "brand": "Isuzu",
+    "model": "MU-X",
+    "car_name": "Isuzu MU-X",
+    "model_slug": "mu-x"
+  }
+]

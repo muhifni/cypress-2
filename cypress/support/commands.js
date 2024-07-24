@@ -71,7 +71,7 @@ Cypress.Commands.add('notificationWhatsApp', (userName) => {
   }
 
   // API endpoint to call
-  const apiEndpoint = 'http://138.2.80.47:3112/message/text';
+  const apiEndpoint = 'http://138.2.80.47:3112/api/v2/message/text';
 
   const data = {
     client: 'trial_acc',
@@ -91,7 +91,6 @@ Cypress.Commands.add('notificationWhatsApp', (userName) => {
     url: apiEndpoint,
     headers: {
       'Content-Type': 'application/json',
-      Authorization: `Bearer `  + Cypress.env('WA_TOKEN'),
     },
     body: data,
   }).then((response) => {

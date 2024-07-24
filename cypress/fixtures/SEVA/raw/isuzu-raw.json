@@ -1,0 +1,270 @@
+{
+  "totalItems": 2,
+  "currentItems": 2,
+  "carRecommendations": [
+      {
+          "id": "48a8ecbc-11dz-4c0d-be83-c1521e8d698e",
+          "brand": "Isuzu",
+          "model": "D-Max",
+          "model_slug": "d-max-1fbc62d1-bd85-426f-9913-86b554711ca4",
+          "height": "1785",
+          "length": "5265",
+          "width": "1870",
+          "rasioBahanBakar": "1 : 10",
+          "lowestAssetPrice": 450200000,
+          "highestAssetPrice": 581500000,
+          "lowestDpAmount": 90040000,
+          "lowestMonthlyInstallment": 9500000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/Isuzu/D-MAX/main_color/dmax_black.png",
+              "https://images.prod.seva.id/Isuzu/D-MAX/gallery/dmax_int_2.jpg"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "c5a5f7d4-72dz-4565-8aea-79521b612a60",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 90040000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 9500000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 450200000,
+                  "name": "SC MT",
+                  "variant_slug": "sc-mt-dmax01-c5a5f7d4-72dz-4565-8aea-79521b612a60",
+                  "transmission": "Manual",
+                  "fuelType": "Diesel",
+                  "engineCapacity": "1898",
+                  "seat": "4",
+                  "otrInfo": {
+                      "dealerCode": "iso",
+                      "skuCode": "DMAX01",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 90040000,
+                      "calculatorArr": [
+                          {
+                              "calculator_id": 13,
+                              "calculator_name": "Reguler",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-06-30 17:00:56",
+                              "calculator_end_date": "2024-07-28 16:59:05",
+                              "calculator_show_interest_rate": false,
+                              "interestRate": 8.2,
+                              "insuranceRate": 9.77,
+                              "installment": 9500000,
+                              "totalFirstPayment": 92590000,
+                              "totalBayar": 662590000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          }
+                      ],
+                      "lowestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 9.77,
+                          "installment": 9500000,
+                          "totalFirstPayment": 92590000,
+                          "totalBayar": 662590000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      },
+                      "highestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 9.77,
+                          "installment": 9500000,
+                          "totalFirstPayment": 92590000,
+                          "totalBayar": 662590000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "id": "48a8ecbc-11mu-4c0d-be83-c1521e8d699e",
+          "brand": "Isuzu",
+          "model": "MU-X",
+          "model_slug": "mu-x-23a9c53e-82be-40eb-8ceb-67b834fbe8c6",
+          "height": "1815",
+          "length": "4850",
+          "width": "1870",
+          "rasioBahanBakar": "1 : 10",
+          "lowestAssetPrice": 581500000,
+          "highestAssetPrice": 581500000,
+          "lowestDpAmount": 116300000,
+          "lowestMonthlyInstallment": 12100000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/Isuzu/MU-X/main_color/mux_black.png",
+              "https://storage.googleapis.com/images.staging.torq.id/Isuzu/MU-X/gallery/mux_eks_3.jpg"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "c5a5f7d4-72mu-4565-8aea-79521b612a63",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 116300000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 12100000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 581500000,
+                  "name": "4X4 AT",
+                  "variant_slug": "4x4-at-mux01-c5a5f7d4-72mu-4565-8aea-79521b612a63",
+                  "transmission": "Otomatis",
+                  "fuelType": "Diesel",
+                  "engineCapacity": "1898",
+                  "seat": "7",
+                  "otrInfo": {
+                      "dealerCode": "iso",
+                      "skuCode": "MUX01",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 116300000,
+                      "calculatorArr": [
+                          {
+                              "calculator_id": 13,
+                              "calculator_name": "Reguler",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-06-30 17:00:56",
+                              "calculator_end_date": "2024-07-28 16:59:05",
+                              "calculator_show_interest_rate": false,
+                              "interestRate": 8.2,
+                              "insuranceRate": 8.48,
+                              "installment": 12100000,
+                              "totalFirstPayment": 118850000,
+                              "totalBayar": 844850000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          }
+                      ],
+                      "lowestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 8.48,
+                          "installment": 12100000,
+                          "totalFirstPayment": 118850000,
+                          "totalBayar": 844850000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      },
+                      "highestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 8.48,
+                          "installment": 12100000,
+                          "totalFirstPayment": 118850000,
+                          "totalBayar": 844850000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      }
+                  }
+              }
+          ]
+      }
+  ],
+  "lowestCarPrice": 0,
+  "highestCarPrice": 0
+}

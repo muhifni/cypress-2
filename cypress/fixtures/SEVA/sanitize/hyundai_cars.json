@@ -1,0 +1,58 @@
+[
+  {
+    "brand": "Hyundai",
+    "model": "Stargazer",
+    "car_name": "Hyundai Stargazer",
+    "model_slug_raw": "stargazer-b42fb358-671b-43bf-8329-e4b42e9b5cee",
+    "model_slug": "stargazer"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Creta",
+    "car_name": "Hyundai Creta",
+    "model_slug_raw": "creta-3f92085c-bdba-436f-8484-75d0f742949b",
+    "model_slug": "creta"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Stargazer X",
+    "car_name": "Hyundai Stargazer X",
+    "model_slug_raw": "stargazer-x-024fab91-21bf-480f-9ddc-54d8656191c8",
+    "model_slug": "stargazer-x"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Santa Fe",
+    "car_name": "Hyundai Santa Fe",
+    "model_slug_raw": "santa-fe-130008df-3952-4700-b4df-0575503ea9ab",
+    "model_slug": "santa-fe"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Ioniq 5",
+    "car_name": "Hyundai Ioniq 5",
+    "model_slug_raw": "ioniq-5-fe009eef-cc3d-47a4-bbf2-0d7de80b5c93",
+    "model_slug": "ioniq-5"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Palisade",
+    "car_name": "Hyundai Palisade",
+    "model_slug_raw": "palisade-ee9cdb3e-3f7a-43f0-94b0-bd3c62f46cfb",
+    "model_slug": "palisade"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Staria",
+    "car_name": "Hyundai Staria",
+    "model_slug_raw": "staria-57b3dc1a-eb5a-4dab-b879-8ddf32e1d4ee",
+    "model_slug": "staria"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Ioniq 6",
+    "car_name": "Hyundai Ioniq 6",
+    "model_slug_raw": "ioniq-6-71b70649-9bb7-4f30-8b58-373457b542da",
+    "model_slug": "ioniq-6"
+  }
+]

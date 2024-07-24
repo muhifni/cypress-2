@@ -1,0 +1,3092 @@
+{
+  "totalItems": 24,
+  "currentItems": 24,
+  "carRecommendations": [
+      {
+          "id": "45d4c9b0-c74b-4bef-ac2b-18f67392aa8c",
+          "brand": "Toyota",
+          "model": "New Calya",
+          "model_slug": "new-calya-e501963a-4da4-44ef-940e-2df4383d24ad",
+          "height": "1600",
+          "length": "4070",
+          "width": "1655",
+          "rasioBahanBakar": "1 : 13.9",
+          "lowestAssetPrice": 167300000,
+          "highestAssetPrice": 227399000,
+          "lowestDpAmount": 33460000,
+          "lowestMonthlyInstallment": 3640000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/Toyota/New Calya/main_color/calya_main_1.webp",
+              "https://images.prod.seva.id/Toyota/New Calya/gallery/calya_eksterior_8.jpg"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "74f9ead1-38ca-4a55-a9e3-17d37ac42c4b",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 33460000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 3640000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 167300000,
+                  "name": "1.2 E MT STD",
+                  "variant_slug": "12-e-mt-std-b40em_t21b-74f9ead1-38ca-4a55-a9e3-17d37ac42c4b",
+                  "transmission": "Manual",
+                  "fuelType": "Bensin",
+                  "engineCapacity": "1197",
+                  "seat": "7",
+                  "otrInfo": {
+                      "dealerCode": "TSO",
+                      "skuCode": "B40EM/T21B",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 33460000,
+                      "calculatorArr": [
+                          {
+                              "calculator_id": 13,
+                              "calculator_name": "Reguler",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-06-30 17:00:56",
+                              "calculator_end_date": "2024-07-28 16:59:05",
+                              "calculator_show_interest_rate": false,
+                              "interestRate": 8.2,
+                              "insuranceRate": 12.538,
+                              "installment": 3640000,
+                              "totalFirstPayment": 36010000,
+                              "totalBayar": 254410000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          }
+                      ],
+                      "lowestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 12.538,
+                          "installment": 3640000,
+                          "totalFirstPayment": 36010000,
+                          "totalBayar": 254410000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      },
+                      "highestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 12.538,
+                          "installment": 3640000,
+                          "totalFirstPayment": 36010000,
+                          "totalBayar": 254410000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "id": "d6861483-6619-49e1-a290-89866b6dmk8z",
+          "brand": "Toyota",
+          "model": "All New Agya",
+          "model_slug": "all-new-agya-86dd032d-afcd-4acc-b384-4ca530f29bd4",
+          "height": "1505",
+          "length": "3830",
+          "width": "1665",
+          "rasioBahanBakar": "1 : 22",
+          "lowestAssetPrice": 170900000,
+          "highestAssetPrice": 261800000,
+          "lowestDpAmount": 34180000,
+          "lowestMonthlyInstallment": 3720000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/Toyota/All New Agya/main_color/All_New_Agya_main_mobile_1.webp",
+              "https://images.prod.seva.id/Toyota/All New Agya/gallery/All_New_Agya_interior_desktop_1.webp"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "3a1c74f3-879a-4a25-a000-79c4b69b7601",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 34180000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 3720000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 170900000,
+                  "name": "1.2 E M/T",
+                  "variant_slug": "12-e-mt-a351ra-gmnfj-00-3a1c74f3-879a-4a25-a000-79c4b69b7601",
+                  "transmission": "Manual",
+                  "fuelType": "Bensin",
+                  "engineCapacity": "1200",
+                  "seat": "5",
+                  "otrInfo": {
+                      "dealerCode": "TSO",
+                      "skuCode": "A351EM/T00",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 34180000,
+                      "calculatorArr": [
+                          {
+                              "calculator_id": 13,
+                              "calculator_name": "Reguler",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-06-30 17:00:56",
+                              "calculator_end_date": "2024-07-28 16:59:05",
+                              "calculator_show_interest_rate": false,
+                              "interestRate": 8.2,
+                              "insuranceRate": 12.538,
+                              "installment": 3720000,
+                              "totalFirstPayment": 36730000,
+                              "totalBayar": 259930000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          }
+                      ],
+                      "lowestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 12.538,
+                          "installment": 3720000,
+                          "totalFirstPayment": 36730000,
+                          "totalBayar": 259930000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      },
+                      "highestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 12.538,
+                          "installment": 3720000,
+                          "totalFirstPayment": 36730000,
+                          "totalBayar": 259930000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "id": "d0310f55-ac43-4ada-b033-a717565f8da3",
+          "brand": "Toyota",
+          "model": "Raize",
+          "model_slug": "raize-346db424-5790-4e34-92bd-ddd5f31a9f9d",
+          "height": "1620",
+          "length": "3995",
+          "width": "1695",
+          "rasioBahanBakar": "1 : 19",
+          "lowestAssetPrice": 238700000,
+          "highestAssetPrice": 354115000,
+          "lowestDpAmount": 47740000,
+          "lowestMonthlyInstallment": 5140000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/Toyota/Raize/main_color/RaizeBlack.png"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "f3c79dd3-58b1-499f-ab54-8bbb518af0da",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 47740000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 5140000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 238700000,
+                  "name": "1.2 G M/T One Tone",
+                  "variant_slug": "12-g-mt-one-tone-a251gm_t00s-f3c79dd3-58b1-499f-ab54-8bbb518af0da",
+                  "transmission": "Manual",
+                  "fuelType": "Bensin",
+                  "engineCapacity": "1198",
+                  "seat": "5",
+                  "otrInfo": {
+                      "dealerCode": "TSO",
+                      "skuCode": "A251GM/T00S",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 47740000,
+                      "calculatorArr": [
+                          {
+                              "calculator_id": 13,
+                              "calculator_name": "Reguler",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-06-30 17:00:56",
+                              "calculator_end_date": "2024-07-28 16:59:05",
+                              "calculator_show_interest_rate": false,
+                              "interestRate": 8.2,
+                              "insuranceRate": 11.46,
+                              "installment": 5140000,
+                              "totalFirstPayment": 50290000,
+                              "totalBayar": 358690000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          },
+                          {
+                              "calculator_id": 15,
+                              "calculator_name": "Spektakuler Bunga Spesial",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-07-22 07:54:55",
+                              "calculator_end_date": "2024-07-31 16:59:57",
+                              "calculator_show_interest_rate": true,
+                              "interestRate": 4.9,
+                              "insuranceRate": 11.46,
+                              "installment": 4540000,
+                              "totalFirstPayment": 50290000,
+                              "totalBayar": 322690000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  },
+                                  {
+                                      "promo_id": 7,
+                                      "promo_name": "Spektakuler Bunga Spesial",
+                                      "promo_desc": "Dapatkan bunga mulai dari 0% untuk tenor 1 tahun khusus pembelian di SEVA melalui ACC/TAF.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-22T12:19:14.000Z",
+                                      "end_date": "2024-07-31T16:59:17.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          }
+                      ],
+                      "lowestCalculator": {
+                          "calculator_id": 15,
+                          "calculator_name": "Spektakuler Bunga Spesial",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-07-22 07:54:55",
+                          "calculator_end_date": "2024-07-31 16:59:57",
+                          "calculator_show_interest_rate": true,
+                          "interestRate": 4.9,
+                          "insuranceRate": 11.46,
+                          "installment": 4540000,
+                          "totalFirstPayment": 50290000,
+                          "totalBayar": 322690000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              },
+                              {
+                                  "promo_id": 7,
+                                  "promo_name": "Spektakuler Bunga Spesial",
+                                  "promo_desc": "Dapatkan bunga mulai dari 0% untuk tenor 1 tahun khusus pembelian di SEVA melalui ACC/TAF.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-22T12:19:14.000Z",
+                                  "end_date": "2024-07-31T16:59:17.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      },
+                      "highestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 11.46,
+                          "installment": 5140000,
+                          "totalFirstPayment": 50290000,
+                          "totalBayar": 358690000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "id": "a60899bc-1336-42a2-8189-bda73e35c31c",
+          "brand": "Toyota",
+          "model": "All New Avanza",
+          "model_slug": "all-new-avanza-6e45e0e6-da31-49ad-9c4c-c145b43cfae0",
+          "height": "1665",
+          "length": "4395",
+          "width": "1730",
+          "rasioBahanBakar": "1 : 10",
+          "lowestAssetPrice": 239700000,
+          "highestAssetPrice": 303500000,
+          "lowestDpAmount": 47940000,
+          "lowestMonthlyInstallment": 5160000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/Toyota/All New Avanza/main_color/hitam.png"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "b0c9afc8-3278-45ec-b8fd-bbe0f0ead4eb",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 47940000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 5160000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 239700000,
+                  "name": "1.3 E M/T",
+                  "variant_slug": "13-e-mt-w00em_t00-b0c9afc8-3278-45ec-b8fd-bbe0f0ead4eb",
+                  "transmission": "Manual",
+                  "fuelType": "Bensin",
+                  "engineCapacity": "1329",
+                  "seat": "7",
+                  "otrInfo": {
+                      "dealerCode": "TSO",
+                      "skuCode": "W00EM/T00",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 47940000,
+                      "calculatorArr": [
+                          {
+                              "calculator_id": 13,
+                              "calculator_name": "Reguler",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-06-30 17:00:56",
+                              "calculator_end_date": "2024-07-28 16:59:05",
+                              "calculator_show_interest_rate": false,
+                              "interestRate": 8.2,
+                              "insuranceRate": 11.46,
+                              "installment": 5160000,
+                              "totalFirstPayment": 50490000,
+                              "totalBayar": 360090000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          },
+                          {
+                              "calculator_id": 15,
+                              "calculator_name": "Spektakuler Bunga Spesial",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-07-22 07:54:55",
+                              "calculator_end_date": "2024-07-31 16:59:57",
+                              "calculator_show_interest_rate": true,
+                              "interestRate": 4.9,
+                              "insuranceRate": 11.46,
+                              "installment": 4550000,
+                              "totalFirstPayment": 50490000,
+                              "totalBayar": 323490000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  },
+                                  {
+                                      "promo_id": 7,
+                                      "promo_name": "Spektakuler Bunga Spesial",
+                                      "promo_desc": "Dapatkan bunga mulai dari 0% untuk tenor 1 tahun khusus pembelian di SEVA melalui ACC/TAF.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-22T12:19:14.000Z",
+                                      "end_date": "2024-07-31T16:59:17.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          }
+                      ],
+                      "lowestCalculator": {
+                          "calculator_id": 15,
+                          "calculator_name": "Spektakuler Bunga Spesial",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-07-22 07:54:55",
+                          "calculator_end_date": "2024-07-31 16:59:57",
+                          "calculator_show_interest_rate": true,
+                          "interestRate": 4.9,
+                          "insuranceRate": 11.46,
+                          "installment": 4550000,
+                          "totalFirstPayment": 50490000,
+                          "totalBayar": 323490000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              },
+                              {
+                                  "promo_id": 7,
+                                  "promo_name": "Spektakuler Bunga Spesial",
+                                  "promo_desc": "Dapatkan bunga mulai dari 0% untuk tenor 1 tahun khusus pembelian di SEVA melalui ACC/TAF.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-22T12:19:14.000Z",
+                                  "end_date": "2024-07-31T16:59:17.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      },
+                      "highestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 11.46,
+                          "installment": 5160000,
+                          "totalFirstPayment": 50490000,
+                          "totalBayar": 360090000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "id": "797c15c6-d2e5-4d0b-be96-bdc9023e353c",
+          "brand": "Toyota",
+          "model": "All New Rush",
+          "model_slug": "all-new-rush-dd32d160-f59b-41ae-9964-243a53b08a7f",
+          "height": "1705",
+          "length": "4435",
+          "width": "1695",
+          "rasioBahanBakar": "1 : 15",
+          "lowestAssetPrice": 282700000,
+          "highestAssetPrice": 337240000,
+          "lowestDpAmount": 56540000,
+          "lowestMonthlyInstallment": 6040000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/Toyota/All New Rush/main_color/main_banner_toyota_all_new_rush_black_mica1.png",
+              "https://images.prod.seva.id/Toyota/All New Rush/gallery/main_galery_toyota_all_new_rush_eksterior_7.jpg"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "d3933bac-2afe-4e93-b0ce-252104289300",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 56540000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 6040000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 282700000,
+                  "name": "1.5 G M/T",
+                  "variant_slug": "15-g-mt-w01gm_t00-d3933bac-2afe-4e93-b0ce-252104289300",
+                  "transmission": "Manual",
+                  "fuelType": "Bensin",
+                  "engineCapacity": "1496",
+                  "seat": "7",
+                  "otrInfo": {
+                      "dealerCode": "TSO",
+                      "skuCode": "F80GM/T20B",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 56540000,
+                      "calculatorArr": [
+                          {
+                              "calculator_id": 13,
+                              "calculator_name": "Reguler",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-06-30 17:00:56",
+                              "calculator_end_date": "2024-07-28 16:59:05",
+                              "calculator_show_interest_rate": false,
+                              "interestRate": 8.2,
+                              "insuranceRate": 10.788,
+                              "installment": 6040000,
+                              "totalFirstPayment": 59090000,
+                              "totalBayar": 421490000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          },
+                          {
+                              "calculator_id": 15,
+                              "calculator_name": "Spektakuler Bunga Spesial",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-07-22 07:54:55",
+                              "calculator_end_date": "2024-07-31 16:59:57",
+                              "calculator_show_interest_rate": true,
+                              "interestRate": 4.9,
+                              "insuranceRate": 10.788,
+                              "installment": 5330000,
+                              "totalFirstPayment": 59090000,
+                              "totalBayar": 378890000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  },
+                                  {
+                                      "promo_id": 7,
+                                      "promo_name": "Spektakuler Bunga Spesial",
+                                      "promo_desc": "Dapatkan bunga mulai dari 0% untuk tenor 1 tahun khusus pembelian di SEVA melalui ACC/TAF.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-22T12:19:14.000Z",
+                                      "end_date": "2024-07-31T16:59:17.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          }
+                      ],
+                      "lowestCalculator": {
+                          "calculator_id": 15,
+                          "calculator_name": "Spektakuler Bunga Spesial",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-07-22 07:54:55",
+                          "calculator_end_date": "2024-07-31 16:59:57",
+                          "calculator_show_interest_rate": true,
+                          "interestRate": 4.9,
+                          "insuranceRate": 10.788,
+                          "installment": 5330000,
+                          "totalFirstPayment": 59090000,
+                          "totalBayar": 378890000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              },
+                              {
+                                  "promo_id": 7,
+                                  "promo_name": "Spektakuler Bunga Spesial",
+                                  "promo_desc": "Dapatkan bunga mulai dari 0% untuk tenor 1 tahun khusus pembelian di SEVA melalui ACC/TAF.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-22T12:19:14.000Z",
+                                  "end_date": "2024-07-31T16:59:17.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      },
+                      "highestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 10.788,
+                          "installment": 6040000,
+                          "totalFirstPayment": 59090000,
+                          "totalBayar": 421490000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "id": "e51e702a-5d31-4333-b9b3-a013f438921c",
+          "brand": "Toyota",
+          "model": "All New Hilux Single Cabin",
+          "model_slug": "all-new-hilux-single-cabin-e718acc2-6704-400b-9893-1ca89f920047",
+          "height": "1685",
+          "length": "4930",
+          "width": "1600",
+          "rasioBahanBakar": "1 : 9.6",
+          "lowestAssetPrice": 283700000,
+          "highestAssetPrice": 407800000,
+          "lowestDpAmount": 56740000,
+          "lowestMonthlyInstallment": 6060000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/Toyota/All New Hilux/main_color/main_banner_toyota_hilux_d_cab_attitude_black1.png",
+              "https://images.prod.seva.id/Toyota/All New Hilux/gallery/hiluxsingle_int_9.jpg"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": false,
+          "variants": [
+              {
+                  "id": "aba37827-6fe7-4b3c-8110-a2816098cf78",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 56740000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 6060000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 283700000,
+                  "name": "SINGLE CABIN 2.0 M/T",
+                  "variant_slug": "single-cabin-20-mt-tgn10scm_t10-aba37827-6fe7-4b3c-8110-a2816098cf78",
+                  "transmission": "Manual",
+                  "fuelType": "Bensin",
+                  "engineCapacity": "1998",
+                  "seat": "2",
+                  "otrInfo": {
+                      "dealerCode": "TSO",
+                      "skuCode": "TGN10SCM/T10",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 56740000,
+                      "calculatorArr": []
+                  }
+              }
+          ]
+      },
+      {
+          "id": "ec6ad33f-36cc-4389-9c42-88cc12ea5621",
+          "brand": "Toyota",
+          "model": "All New Veloz",
+          "model_slug": "all-new-veloz-4a765fef-4981-4956-a524-e70d3896d2a6",
+          "height": "1700",
+          "length": "4475",
+          "width": "1750",
+          "rasioBahanBakar": "1 : 12.6",
+          "lowestAssetPrice": 292900000,
+          "highestAssetPrice": 358608000,
+          "lowestDpAmount": 58580000,
+          "lowestMonthlyInstallment": 6210000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/Toyota/All New Veloz/main_color/white.png"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "9df62b02-7903-4223-9916-d84088c6d3ce",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 58580000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 6210000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 292900000,
+                  "name": "1.5 M/T (Non Premium Color)",
+                  "variant_slug": "15-mt-non-premium-color-w01vm_t00-9df62b02-7903-4223-9916-d84088c6d3ce",
+                  "transmission": "Manual",
+                  "fuelType": "Bensin",
+                  "engineCapacity": "1496",
+                  "seat": "7",
+                  "otrInfo": {
+                      "dealerCode": "TSO",
+                      "skuCode": "W01VM/T00",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 58580000,
+                      "calculatorArr": [
+                          {
+                              "calculator_id": 13,
+                              "calculator_name": "Reguler",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-06-30 17:00:56",
+                              "calculator_end_date": "2024-07-28 16:59:05",
+                              "calculator_show_interest_rate": false,
+                              "interestRate": 8.2,
+                              "insuranceRate": 10.2,
+                              "installment": 6210000,
+                              "totalFirstPayment": 61130000,
+                              "totalBayar": 433730000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          },
+                          {
+                              "calculator_id": 15,
+                              "calculator_name": "Spektakuler Bunga Spesial",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-07-22 07:54:55",
+                              "calculator_end_date": "2024-07-31 16:59:57",
+                              "calculator_show_interest_rate": true,
+                              "interestRate": 4.9,
+                              "insuranceRate": 10.2,
+                              "installment": 5490000,
+                              "totalFirstPayment": 61130000,
+                              "totalBayar": 390530000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  },
+                                  {
+                                      "promo_id": 7,
+                                      "promo_name": "Spektakuler Bunga Spesial",
+                                      "promo_desc": "Dapatkan bunga mulai dari 0% untuk tenor 1 tahun khusus pembelian di SEVA melalui ACC/TAF.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-22T12:19:14.000Z",
+                                      "end_date": "2024-07-31T16:59:17.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          }
+                      ],
+                      "lowestCalculator": {
+                          "calculator_id": 15,
+                          "calculator_name": "Spektakuler Bunga Spesial",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-07-22 07:54:55",
+                          "calculator_end_date": "2024-07-31 16:59:57",
+                          "calculator_show_interest_rate": true,
+                          "interestRate": 4.9,
+                          "insuranceRate": 10.2,
+                          "installment": 5490000,
+                          "totalFirstPayment": 61130000,
+                          "totalBayar": 390530000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              },
+                              {
+                                  "promo_id": 7,
+                                  "promo_name": "Spektakuler Bunga Spesial",
+                                  "promo_desc": "Dapatkan bunga mulai dari 0% untuk tenor 1 tahun khusus pembelian di SEVA melalui ACC/TAF.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-22T12:19:14.000Z",
+                                  "end_date": "2024-07-31T16:59:17.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      },
+                      "highestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 10.2,
+                          "installment": 6210000,
+                          "totalFirstPayment": 61130000,
+                          "totalBayar": 433730000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "id": "8f055529-a049-4625-afac-1c6fb4481294",
+          "brand": "Toyota",
+          "model": "New Yaris",
+          "model_slug": "new-yaris-a3e6f887-3bb5-4771-83e5-4393b5baf429",
+          "height": "1500",
+          "length": "4145",
+          "width": "1730",
+          "rasioBahanBakar": "1 : 13.8",
+          "lowestAssetPrice": 329400000,
+          "highestAssetPrice": 352200000,
+          "lowestDpAmount": 65880000,
+          "lowestMonthlyInstallment": 6990000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/Toyota/New Yaris/main_color/main_galeri_toyota_new_yaris_black_mica_1.png",
+              "https://images.prod.seva.id/Toyota/New Yaris/gallery/int_yaris9.jpg"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "3ba10e62-63f2-4a29-9173-cf2abdfe4233",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 65880000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 6990000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 329400000,
+                  "name": "1.5 S M/T GR SPORT 3 Airbags Monotone",
+                  "variant_slug": "15-s-mt-gr-sport-3-airbags-monotone-nsp15sm_t61-3ba10e62-63f2-4a29-9173-cf2abdfe4233",
+                  "transmission": "Manual",
+                  "fuelType": "Bensin",
+                  "engineCapacity": "1496",
+                  "seat": "5",
+                  "otrInfo": {
+                      "dealerCode": "TSO",
+                      "skuCode": "NSP15SM/T61",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 65880000,
+                      "calculatorArr": [
+                          {
+                              "calculator_id": 13,
+                              "calculator_name": "Reguler",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-06-30 17:00:56",
+                              "calculator_end_date": "2024-07-28 16:59:05",
+                              "calculator_show_interest_rate": false,
+                              "interestRate": 8.2,
+                              "insuranceRate": 10.2,
+                              "installment": 6990000,
+                              "totalFirstPayment": 68430000,
+                              "totalBayar": 487830000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          }
+                      ],
+                      "lowestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 10.2,
+                          "installment": 6990000,
+                          "totalFirstPayment": 68430000,
+                          "totalBayar": 487830000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      },
+                      "highestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 10.2,
+                          "installment": 6990000,
+                          "totalFirstPayment": 68430000,
+                          "totalBayar": 487830000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "id": "9070a8e1-e94c-4780-b1e4-21e73e9ffd72",
+          "brand": "Toyota",
+          "model": "All New Vios",
+          "model_slug": "all-new-vios-f1be297b-c49d-4c92-81cd-589ffdf69159",
+          "height": "1480",
+          "length": "4410",
+          "width": "1740",
+          "rasioBahanBakar": "1 : 20",
+          "lowestAssetPrice": 329700000,
+          "highestAssetPrice": 384600000,
+          "lowestDpAmount": 65940000,
+          "lowestMonthlyInstallment": 6990000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/Toyota/New Vios/main_color/vios_main_1.webp",
+              "https://images.prod.seva.id/Toyota/New Vios/gallery/vios_eksterior_4.jpg"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "65fcb20a-cf81-4eea-af01-a9368db9f404",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 65940000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 6990000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 329700000,
+                  "name": "All New Vios 1.5 E M/T",
+                  "variant_slug": "all-new-vios-15-e-mt-ngc102em_t00-65fcb20a-cf81-4eea-af01-a9368db9f404",
+                  "transmission": "Manual",
+                  "fuelType": "Bensin",
+                  "engineCapacity": "1496",
+                  "seat": "5",
+                  "otrInfo": {
+                      "dealerCode": "TSO",
+                      "skuCode": "NGC102EM/T00",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 65940000,
+                      "calculatorArr": [
+                          {
+                              "calculator_id": 13,
+                              "calculator_name": "Reguler",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-06-30 17:00:56",
+                              "calculator_end_date": "2024-07-28 16:59:05",
+                              "calculator_show_interest_rate": false,
+                              "interestRate": 8.2,
+                              "insuranceRate": 10.2,
+                              "installment": 6990000,
+                              "totalFirstPayment": 68490000,
+                              "totalBayar": 487890000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          }
+                      ],
+                      "lowestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 10.2,
+                          "installment": 6990000,
+                          "totalFirstPayment": 68490000,
+                          "totalBayar": 487890000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      },
+                      "highestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 10.2,
+                          "installment": 6990000,
+                          "totalFirstPayment": 68490000,
+                          "totalBayar": 487890000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "id": "8f055529-a049-4625-afac-1c6fb4481lz5",
+          "brand": "Toyota",
+          "model": "All New Yaris Cross",
+          "model_slug": "all-new-yaris-cross-598969ba-7857-4d45-a3ef-95fee8361f88",
+          "height": "1615",
+          "length": "4310",
+          "width": "1770",
+          "rasioBahanBakar": "1 : 13.8",
+          "lowestAssetPrice": 353900000,
+          "highestAssetPrice": 454950000,
+          "lowestDpAmount": 70780000,
+          "lowestMonthlyInstallment": 7510000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/Toyota/All New Yaris Cross/main_color/Toyota_All_New_Yaris_Cross_Hero.webp"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "1cd34791-24f9-4f8e-b0f7-be3a2891b261",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 70780000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 7510000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 353900000,
+                  "name": "YARIS CROSS 1.5 G MT",
+                  "variant_slug": "yaris-cross-15-g-mt-ngc20gm_t00",
+                  "transmission": "Manual",
+                  "fuelType": "Bensin",
+                  "engineCapacity": "1496",
+                  "seat": "5",
+                  "otrInfo": {
+                      "dealerCode": "TSO",
+                      "skuCode": "NGC20GM/T00",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 70780000,
+                      "calculatorArr": [
+                          {
+                              "calculator_id": 13,
+                              "calculator_name": "Reguler",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-06-30 17:00:56",
+                              "calculator_end_date": "2024-07-28 16:59:05",
+                              "calculator_show_interest_rate": false,
+                              "interestRate": 8.2,
+                              "insuranceRate": 10.2,
+                              "installment": 7510000,
+                              "totalFirstPayment": 73330000,
+                              "totalBayar": 523930000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          }
+                      ],
+                      "lowestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 10.2,
+                          "installment": 7510000,
+                          "totalFirstPayment": 73330000,
+                          "totalBayar": 523930000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      },
+                      "highestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 10.2,
+                          "installment": 7510000,
+                          "totalFirstPayment": 73330000,
+                          "totalBayar": 523930000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "id": "737f1049-f940-49ea-a8e2-dd018e24b8ca",
+          "brand": "Toyota",
+          "model": "New Kijang Innova",
+          "model_slug": "new-kijang-innova-406a285a-81fa-4768-be04-10b59e606633",
+          "height": "1795",
+          "length": "4735",
+          "width": "1830",
+          "rasioBahanBakar": "1 : 10",
+          "lowestAssetPrice": 384100000,
+          "highestAssetPrice": 431900000,
+          "lowestDpAmount": 76820000,
+          "lowestMonthlyInstallment": 8150000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/Toyota/New Kijang Innova/main_color/main_banner_toyota_new_innova_attitude_black.png",
+              "https://images.prod.seva.id/Toyota/New Kijang Innova/gallery/Main_galeri_new_toyota_2020_eksterior_4.jpg"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "d3f5a651-d863-49e2-a303-54525e6b5fdb",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 76820000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 8150000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 384100000,
+                  "name": "2.0 G M/T BSN",
+                  "variant_slug": "20-g-mt-bsn-tgn40gm_t30x-d3f5a651-d863-49e2-a303-54525e6b5fdb",
+                  "transmission": "Manual",
+                  "fuelType": "Bensin",
+                  "engineCapacity": "1998",
+                  "seat": "7",
+                  "otrInfo": {
+                      "dealerCode": "TSO",
+                      "skuCode": "TGN40GM/T30X",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 76820000,
+                      "calculatorArr": [
+                          {
+                              "calculator_id": 13,
+                              "calculator_name": "Reguler",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-06-30 17:00:56",
+                              "calculator_end_date": "2024-07-28 16:59:05",
+                              "calculator_show_interest_rate": false,
+                              "interestRate": 8.2,
+                              "insuranceRate": 10.2,
+                              "installment": 8150000,
+                              "totalFirstPayment": 79370000,
+                              "totalBayar": 568370000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          }
+                      ],
+                      "lowestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 10.2,
+                          "installment": 8150000,
+                          "totalFirstPayment": 79370000,
+                          "totalBayar": 568370000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      },
+                      "highestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 10.2,
+                          "installment": 8150000,
+                          "totalFirstPayment": 79370000,
+                          "totalBayar": 568370000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "id": "737f1049-f940-49ea-a9zn-dd018e24b9zn",
+          "brand": "Toyota",
+          "model": "All New Kijang Innova Zenix",
+          "model_slug": "all-new-kijang-innova-zenix-8b809c61-52be-46a3-8a5d-48082cf88c4e",
+          "height": "1795",
+          "length": "4755",
+          "width": "1850",
+          "rasioBahanBakar": "1 : 15.1",
+          "lowestAssetPrice": 430400000,
+          "highestAssetPrice": 638154000,
+          "lowestDpAmount": 86080000,
+          "lowestMonthlyInstallment": 9080000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/Toyota/All New Kijang Innova Zenix/main_color/Zenix_main_black_transparent.png",
+              "https://images.prod.seva.id/Toyota/All New Kijang Innova Zenix/gallery/Zenix_Eksterior_4.jpeg"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "5e6a472f-5efd-40f9-a238-7d7a83789zn1",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 86080000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 9080000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 430400000,
+                  "name": "2.0 G CVT (Non Premium Color)",
+                  "variant_slug": "20-g-cvt-non-premium-color-maga10r-brxlbd-bc",
+                  "transmission": "Otomatis",
+                  "fuelType": "Bensin",
+                  "engineCapacity": "2000",
+                  "seat": "7",
+                  "otrInfo": {
+                      "dealerCode": "TSO",
+                      "skuCode": "MAG10GA/T00",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 86080000,
+                      "calculatorArr": [
+                          {
+                              "calculator_id": 13,
+                              "calculator_name": "Reguler",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-06-30 17:00:56",
+                              "calculator_end_date": "2024-07-28 16:59:05",
+                              "calculator_show_interest_rate": false,
+                              "interestRate": 8.2,
+                              "insuranceRate": 9.77,
+                              "installment": 9080000,
+                              "totalFirstPayment": 88630000,
+                              "totalBayar": 633430000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          }
+                      ],
+                      "lowestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 9.77,
+                          "installment": 9080000,
+                          "totalFirstPayment": 88630000,
+                          "totalBayar": 633430000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      },
+                      "highestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 9.77,
+                          "installment": 9080000,
+                          "totalFirstPayment": 88630000,
+                          "totalBayar": 633430000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "id": "e51e702a-5d31-4333-b9b3-a013f438922k",
+          "brand": "Toyota",
+          "model": "All New Hilux Double Cabin",
+          "model_slug": "all-new-hilux-double-cabin-765f8563-51b4-4a61-9de8-bbab300bcc37",
+          "height": "1815",
+          "length": "5290",
+          "width": "1855",
+          "rasioBahanBakar": "1 : 9.6",
+          "lowestAssetPrice": 442200000,
+          "highestAssetPrice": 785800000,
+          "lowestDpAmount": 88440000,
+          "lowestMonthlyInstallment": 9330000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://storage.googleapis.com/www.images.dev.torqio.com/Toyota/All New Hilux/main_color/main_banner_toyota_hilux_d_cab_attitude_black1.png",
+              "https://storage.googleapis.com/www.images.dev.torqio.com/Toyota/All New Hilux/gallery/hiluxsingle_eks_8.jpg"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": false,
+          "variants": [
+              {
+                  "id": "205e5dad-d485-4162-8691-aa6f241ea78f",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 88440000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 9330000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 442200000,
+                  "name": "DOUBLE CABIN 2.4 E (4X4) DSL M/T",
+                  "variant_slug": "double-cabin-24-e-4x4-dsl-mt-gun25dcem_t30-205e5dad-d485-4162-8691-aa6f241ea78f",
+                  "transmission": "Manual",
+                  "fuelType": "Diesel",
+                  "engineCapacity": "2393",
+                  "seat": "5",
+                  "otrInfo": {
+                      "dealerCode": "TSO",
+                      "skuCode": "GUN25DCEM/T30",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 88440000,
+                      "calculatorArr": []
+                  }
+              }
+          ]
+      },
+      {
+          "id": "f4f7de60-97f0-4685-8940-2f2ee0b401b7",
+          "brand": "Toyota",
+          "model": "The All New Hiace Premio",
+          "model_slug": "the-all-new-hiace-premio-2ccb823a-6bd3-4caa-a81f-3a2a3116a9eb",
+          "height": "2285",
+          "length": "5380",
+          "width": "1880",
+          "rasioBahanBakar": "1 : 9 ",
+          "lowestAssetPrice": 567300000,
+          "highestAssetPrice": 664300000,
+          "lowestDpAmount": 113460000,
+          "lowestMonthlyInstallment": 11880000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/Toyota/The All New Hiace Premio/main_color/main_banner_toyota_hiace_premio_white.png",
+              "https://images.prod.seva.id/Toyota/The All New Hiace Premio/gallery/galery_toyota_hiace_premio_interior_1.png"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "c5a5f7d4-7237-4565-8aea-79521b612a59",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 113460000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 11880000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 567300000,
+                  "name": "COMMUTER M/T",
+                  "variant_slug": "commuter-mt-kd223m_t00comm-c5a5f7d4-7237-4565-8aea-79521b612a59",
+                  "transmission": "Manual",
+                  "fuelType": "Diesel",
+                  "engineCapacity": "2494",
+                  "seat": "16",
+                  "otrInfo": {
+                      "dealerCode": "TSO",
+                      "skuCode": "KD223M/T00COMM",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 113460000,
+                      "calculatorArr": []
+                  }
+              }
+          ]
+      },
+      {
+          "id": "07c68d35-086a-4ff0-a8f2-de244dc8abf0",
+          "brand": "Toyota",
+          "model": "All New Corolla Cross",
+          "model_slug": "all-new-corolla-cross-6913b620-1cf1-4141-a432-2f887e8d4a3e",
+          "height": "1620",
+          "length": "4460",
+          "width": "1825",
+          "rasioBahanBakar": "1 : 16",
+          "lowestAssetPrice": 568200000,
+          "highestAssetPrice": 613400000,
+          "lowestDpAmount": 113640000,
+          "lowestMonthlyInstallment": 11900000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/Toyota/All New Corolla Cross/main_color/main_banner_toyota_corolla_cross_attitudeBlackmetallic.png",
+              "https://images.prod.seva.id/Toyota/All New Corolla Cross/gallery/main_galeri_toyota_corolla_cross_eksterior_8.jpg"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "2142fc59-652f-4001-8a5f-29cda0736b6c",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 113640000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 11900000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 568200000,
+                  "name": "1.8 Hybrid A/T (Non Premium Color)",
+                  "variant_slug": "18-hybrid-at-non-premium-color-zvg10a_t11-2142fc59-652f-4001-8a5f-29cda0736b6c",
+                  "transmission": "Otomatis",
+                  "fuelType": "Hybrid",
+                  "engineCapacity": "1798",
+                  "seat": "5",
+                  "otrInfo": {
+                      "dealerCode": "TSO",
+                      "skuCode": "ZVG10A/T11",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 113640000,
+                      "calculatorArr": [
+                          {
+                              "calculator_id": 13,
+                              "calculator_name": "Reguler",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-06-30 17:00:56",
+                              "calculator_end_date": "2024-07-28 16:59:05",
+                              "calculator_show_interest_rate": false,
+                              "interestRate": 8.2,
+                              "insuranceRate": 9.082,
+                              "installment": 11900000,
+                              "totalFirstPayment": 116190000,
+                              "totalBayar": 830190000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          }
+                      ],
+                      "lowestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 9.082,
+                          "installment": 11900000,
+                          "totalFirstPayment": 116190000,
+                          "totalBayar": 830190000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      },
+                      "highestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 9.082,
+                          "installment": 11900000,
+                          "totalFirstPayment": 116190000,
+                          "totalBayar": 830190000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "id": "57ca7aa7-a659-4b06-9225-f29230459afa",
+          "brand": "Toyota",
+          "model": "New Fortuner",
+          "model_slug": "new-fortuner-7a01b31e-db4f-4acb-94ac-2ff409e6ce7a",
+          "height": "1835",
+          "length": "4795",
+          "width": "1855",
+          "rasioBahanBakar": "1 : 13",
+          "lowestAssetPrice": 573700000,
+          "highestAssetPrice": 745350000,
+          "lowestDpAmount": 114740000,
+          "lowestMonthlyInstallment": 12020000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/Toyota/New Fortuner/main_color/main_banner_toyota_new_fortuner_Attitude_Black.png",
+              "https://images.prod.seva.id/Toyota/New Fortuner/gallery/Main_galeri_new_fortuner_2020_interior_9.jpg"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "a04a55ae-bf5a-4d9d-b664-0437e6050e64",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 114740000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 12020000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 573700000,
+                  "name": "2.4 G 4X2 M/T DSL",
+                  "variant_slug": "24-g-4x2-mt-dsl-gun16gm_t20x-a04a55ae-bf5a-4d9d-b664-0437e6050e64",
+                  "transmission": "Manual",
+                  "fuelType": "Diesel",
+                  "engineCapacity": "2393",
+                  "seat": "7",
+                  "otrInfo": {
+                      "dealerCode": "TSO",
+                      "skuCode": "GUN16GM/T20X",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 114740000,
+                      "calculatorArr": [
+                          {
+                              "calculator_id": 13,
+                              "calculator_name": "Reguler",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-06-30 17:00:56",
+                              "calculator_end_date": "2024-07-28 16:59:05",
+                              "calculator_show_interest_rate": false,
+                              "interestRate": 8.2,
+                              "insuranceRate": 8.48,
+                              "installment": 11930000,
+                              "totalFirstPayment": 117290000,
+                              "totalBayar": 833090000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          }
+                      ],
+                      "lowestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 8.48,
+                          "installment": 11930000,
+                          "totalFirstPayment": 117290000,
+                          "totalBayar": 833090000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      },
+                      "highestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 8.48,
+                          "installment": 11930000,
+                          "totalFirstPayment": 117290000,
+                          "totalBayar": 833090000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "id": "e7956885-50fa-4afa-a0bc-66991ed3e0aa",
+          "brand": "Toyota",
+          "model": "All New C-HR",
+          "model_slug": "all-new-c-hr-adfa1e9c-98fe-4017-98c2-4943937e6a7e",
+          "height": "1565",
+          "length": "4360",
+          "width": "1795",
+          "rasioBahanBakar": "1 : 23",
+          "lowestAssetPrice": 601000000,
+          "highestAssetPrice": 602500000,
+          "lowestDpAmount": 120200000,
+          "lowestMonthlyInstallment": 12500000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/Toyota/All New C-HR/main_color/main_banner_toyota_c_hr_attitude_black_mica.png",
+              "https://images.prod.seva.id/Toyota/All New C-HR/gallery/intchr_3.jpg"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "dffe1888-98d3-4c07-abd1-723c29ea8ab0",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 120200000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 12500000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 601000000,
+                  "name": "1.8 HV A/T (Non Premium Color)",
+                  "variant_slug": "18-hv-at-non-premium-color-zyx10rea_t00-dffe1888-98d3-4c07-abd1-723c29ea8ab0",
+                  "transmission": "Otomatis",
+                  "fuelType": "Bensin",
+                  "engineCapacity": "1798",
+                  "seat": "5",
+                  "otrInfo": {
+                      "dealerCode": "TSO",
+                      "skuCode": "ZYX10REA/T00",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 120200000,
+                      "calculatorArr": [
+                          {
+                              "calculator_id": 13,
+                              "calculator_name": "Reguler",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-06-30 17:00:56",
+                              "calculator_end_date": "2024-07-28 16:59:05",
+                              "calculator_show_interest_rate": false,
+                              "interestRate": 8.2,
+                              "insuranceRate": 8.48,
+                              "installment": 12500000,
+                              "totalFirstPayment": 122750000,
+                              "totalBayar": 872750000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          }
+                      ],
+                      "lowestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 8.48,
+                          "installment": 12500000,
+                          "totalFirstPayment": 122750000,
+                          "totalBayar": 872750000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      },
+                      "highestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 8.48,
+                          "installment": 12500000,
+                          "totalFirstPayment": 122750000,
+                          "totalBayar": 872750000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "id": "49eb902c-52d6-46fe-84e9-57f4e8395aeb",
+          "brand": "Toyota",
+          "model": "All New Voxy",
+          "model_slug": "all-new-voxy-8f39cf60-5101-4bd0-ad56-de8bd8431b4a",
+          "height": "1835",
+          "length": "4710",
+          "width": "1735",
+          "rasioBahanBakar": "1 : 17.4",
+          "lowestAssetPrice": 621700000,
+          "highestAssetPrice": 627500000,
+          "lowestDpAmount": 124340000,
+          "lowestMonthlyInstallment": 12930000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/Toyota/All New Voxy/main_color/voxy_main_new.webp",
+              "https://images.prod.seva.id/Toyota/All New Voxy/gallery/voxy_gallery_interior_2.jpg"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "83176ee2-0156-4c98-a7d1-1008ae096487",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 124340000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 12930000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 621700000,
+                  "name": "2.0 A/T (Non Premium Color)",
+                  "variant_slug": "20-at-non-premium-color-mzr90a_t00b-83176ee2-0156-4c98-a7d1-1008ae096487",
+                  "transmission": "Otomatis",
+                  "fuelType": "Bensin",
+                  "engineCapacity": "1987",
+                  "seat": "7",
+                  "otrInfo": {
+                      "dealerCode": "TSO",
+                      "skuCode": "MZR90A/T00B",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 124340000,
+                      "calculatorArr": [
+                          {
+                              "calculator_id": 13,
+                              "calculator_name": "Reguler",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-06-30 17:00:56",
+                              "calculator_end_date": "2024-07-28 16:59:05",
+                              "calculator_show_interest_rate": false,
+                              "interestRate": 8.2,
+                              "insuranceRate": 8.48,
+                              "installment": 12930000,
+                              "totalFirstPayment": 126890000,
+                              "totalBayar": 902690000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          }
+                      ],
+                      "lowestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 8.48,
+                          "installment": 12930000,
+                          "totalFirstPayment": 126890000,
+                          "totalBayar": 902690000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      },
+                      "highestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 8.48,
+                          "installment": 12930000,
+                          "totalFirstPayment": 126890000,
+                          "totalBayar": 902690000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "id": "63c0f1d4-8fbd-40e3-beec-6192427441b1",
+          "brand": "Toyota",
+          "model": "All New Camry",
+          "model_slug": "all-new-camry-547e7ac1-fd9f-4c04-a71e-14549f2d1447",
+          "height": "1445",
+          "length": "4855",
+          "width": "1840",
+          "rasioBahanBakar": "1 : 12",
+          "lowestAssetPrice": 809800000,
+          "highestAssetPrice": 948400000,
+          "lowestDpAmount": 161960000,
+          "lowestMonthlyInstallment": 16790000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/Toyota/All New Camry/main_color/main_banner_toyota_camry_hybrid_attitude_black.png",
+              "https://images.prod.seva.id/Toyota/All New Camry/gallery/main_galery_toyota_camry_hybrid_interior_8.jpg"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "7b517779-e737-41be-9cb5-139c3ffa9107",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 161960000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 16790000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 809800000,
+                  "name": "2.5 V A/T (Non Premium Color)",
+                  "variant_slug": "25-v-at-non-premium-color-ax70va_t00-7b517779-e737-41be-9cb5-139c3ffa9107",
+                  "transmission": "Otomatis",
+                  "fuelType": "Bensin",
+                  "engineCapacity": "2494",
+                  "seat": "5",
+                  "otrInfo": {
+                      "dealerCode": "TSO",
+                      "skuCode": "AX70VA/T00",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 161960000,
+                      "calculatorArr": [
+                          {
+                              "calculator_id": 13,
+                              "calculator_name": "Reguler",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-06-30 17:00:56",
+                              "calculator_end_date": "2024-07-28 16:59:05",
+                              "calculator_show_interest_rate": false,
+                              "interestRate": 8.2,
+                              "insuranceRate": 8.21,
+                              "installment": 16790000,
+                              "totalFirstPayment": 164510000,
+                              "totalBayar": 1171910000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          }
+                      ],
+                      "lowestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 8.21,
+                          "installment": 16790000,
+                          "totalFirstPayment": 164510000,
+                          "totalBayar": 1171910000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      },
+                      "highestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 8.21,
+                          "installment": 16790000,
+                          "totalFirstPayment": 164510000,
+                          "totalBayar": 1171910000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "id": "d0310f55-ac43-4ada-b033-a717565f8bz4",
+          "brand": "Toyota",
+          "model": "All New BZ4X",
+          "model_slug": "all-new-bz4x-cfc3c8fb-a591-4670-847e-6c07a1af6c03",
+          "height": "1600",
+          "length": "4690",
+          "width": "1860",
+          "rasioBahanBakar": "-",
+          "lowestAssetPrice": 1190000000,
+          "highestAssetPrice": 1198000000,
+          "lowestDpAmount": 238000000,
+          "lowestMonthlyInstallment": 24450000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/Toyota/All New BZ4X/main_color/bz4x_main_1.webp",
+              "https://images.prod.seva.id/Toyota/All New BZ4X/gallery/interior_20220412_01_48.jpg"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "75faf295-fcc8-49af-bbd1-608de1dacbz4",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 238000000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 24450000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 1190000000,
+                  "name": "BZ4X A/T (One Tone Color)",
+                  "variant_slug": "bz4x-at-one-tone-color-xea10ev13-75faf295-fcc8-49af-bbd1-608de1dacbz4",
+                  "transmission": "Otomatis",
+                  "fuelType": "Electric",
+                  "engineCapacity": "0",
+                  "seat": "5",
+                  "otrInfo": {
+                      "dealerCode": "TSO",
+                      "skuCode": "XEA10EV13",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 238000000,
+                      "calculatorArr": [
+                          {
+                              "calculator_id": 13,
+                              "calculator_name": "Reguler",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-06-30 17:00:56",
+                              "calculator_end_date": "2024-07-28 16:59:05",
+                              "calculator_show_interest_rate": false,
+                              "interestRate": 8.2,
+                              "insuranceRate": 7.4,
+                              "installment": 24450000,
+                              "totalFirstPayment": 240550000,
+                              "totalBayar": 1707550000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          }
+                      ],
+                      "lowestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 7.4,
+                          "installment": 24450000,
+                          "totalFirstPayment": 240550000,
+                          "totalBayar": 1707550000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      },
+                      "highestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 7.4,
+                          "installment": 24450000,
+                          "totalFirstPayment": 240550000,
+                          "totalBayar": 1707550000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "id": "55a9e6db-8160-478d-b0bc-37996bf72070",
+          "brand": "Toyota",
+          "model": "New Alphard",
+          "model_slug": "new-alphard-71dfe0dd-ddd6-47b8-aadb-62bdda76eb46",
+          "height": "1895",
+          "length": "4950",
+          "width": "1870",
+          "rasioBahanBakar": "1 : 10",
+          "lowestAssetPrice": 1229400000,
+          "highestAssetPrice": 1661700000,
+          "lowestDpAmount": 245880000,
+          "lowestMonthlyInstallment": 25260000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/Toyota/New Alphard/main_color/main_banner_toyota_new_alphard_black1.png",
+              "https://images.prod.seva.id/Toyota/New Alphard/gallery/main_galeri_toyota_alphard_interior_1.jpg"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "890b3dec-0558-45b8-a5dd-e0280d213a89",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 245880000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 25260000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 1229400000,
+                  "name": "2.5 X A/T",
+                  "variant_slug": "25-x-at-al30xa_t30b-890b3dec-0558-45b8-a5dd-e0280d213a89",
+                  "transmission": "Otomatis",
+                  "fuelType": "Bensin",
+                  "engineCapacity": "2494",
+                  "seat": "7",
+                  "otrInfo": {
+                      "dealerCode": "TSO",
+                      "skuCode": "AL30XA/T30B",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 245880000,
+                      "calculatorArr": [
+                          {
+                              "calculator_id": 13,
+                              "calculator_name": "Reguler",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-06-30 17:00:56",
+                              "calculator_end_date": "2024-07-28 16:59:05",
+                              "calculator_show_interest_rate": false,
+                              "interestRate": 8.2,
+                              "insuranceRate": 7.4,
+                              "installment": 25260000,
+                              "totalFirstPayment": 248430000,
+                              "totalBayar": 1764030000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          }
+                      ],
+                      "lowestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 7.4,
+                          "installment": 25260000,
+                          "totalFirstPayment": 248430000,
+                          "totalBayar": 1764030000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      },
+                      "highestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 7.4,
+                          "installment": 25260000,
+                          "totalFirstPayment": 248430000,
+                          "totalBayar": 1764030000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "id": "f93298be-669e-4e75-97c1-e5eef813d6f2",
+          "brand": "Toyota",
+          "model": "Vellfire",
+          "model_slug": "vellfire-5d46796d-4775-47ad-9cae-16b26445ff19",
+          "height": "1895",
+          "length": "4950",
+          "width": "1870",
+          "rasioBahanBakar": "1 : 10",
+          "lowestAssetPrice": 1402600000,
+          "highestAssetPrice": 1405700000,
+          "lowestDpAmount": 280520000,
+          "lowestMonthlyInstallment": 28810000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/Toyota/Vellfire/main_color/main_banner_toyota_new_vellfire_black.png",
+              "https://images.prod.seva.id/Toyota/Vellfire/gallery/galery_toyota_vellfire_interior_4.png"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "3d246a19-c7c4-4aac-ab35-b27672d601a1",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 280520000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 28810000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 1402600000,
+                  "name": "2.5 G A/T LUX (Non Premium Color)",
+                  "variant_slug": "25-g-at-lux-non-premium-color-al30ga_t30-3d246a19-c7c4-4aac-ab35-b27672d601a1",
+                  "transmission": "Otomatis",
+                  "fuelType": "Bensin",
+                  "engineCapacity": "2494",
+                  "seat": "7",
+                  "otrInfo": {
+                      "dealerCode": "TSO",
+                      "skuCode": "VER30GA/T00",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 280520000,
+                      "calculatorArr": [
+                          {
+                              "calculator_id": 13,
+                              "calculator_name": "Reguler",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-06-30 17:00:56",
+                              "calculator_end_date": "2024-07-28 16:59:05",
+                              "calculator_show_interest_rate": false,
+                              "interestRate": 8.2,
+                              "insuranceRate": 7.4,
+                              "installment": 28810000,
+                              "totalFirstPayment": 283070000,
+                              "totalBayar": 2011670000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          }
+                      ],
+                      "lowestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 7.4,
+                          "installment": 28810000,
+                          "totalFirstPayment": 283070000,
+                          "totalBayar": 2011670000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      },
+                      "highestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 7.4,
+                          "installment": 28810000,
+                          "totalFirstPayment": 283070000,
+                          "totalBayar": 2011670000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "id": "55a9e6db-8160-47zz-b0bc-37996bf72199",
+          "brand": "Toyota",
+          "model": "All New Alphard",
+          "model_slug": "all-new-alphard-796b3b7d-8c5f-4ef0-8cc1-c6ee9871fba2",
+          "height": "1945",
+          "length": "5010",
+          "width": "1850",
+          "rasioBahanBakar": "-",
+          "lowestAssetPrice": 1407300000,
+          "highestAssetPrice": 1789185000,
+          "lowestDpAmount": 281460000,
+          "lowestMonthlyInstallment": 28910000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://storage.googleapis.com/www.images.dev.torqio.com/Toyota/All New Alphard/main_color/All_new_alphard_hero.webp",
+              "https://storage.googleapis.com/www.images.dev.torqio.com/Toyota/All New Alphard/gallery/All_new_alphard_interior_7.webp"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "7fbd22a2-9988-11ee-b9d1-0242ac120002",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 281460000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 28910000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 1407300000,
+                  "name": "2.5 X CVT",
+                  "variant_slug": "25-x-cvt-agh40xa_t00-7fbd22a2-9988-11ee-b9d1-0242ac120002",
+                  "transmission": "Otomatis",
+                  "fuelType": "Bensin",
+                  "engineCapacity": "2498",
+                  "seat": "7",
+                  "otrInfo": {
+                      "dealerCode": "TSO",
+                      "skuCode": "AGH40XA/T00",
+                      "nik": null,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 281460000,
+                      "calculatorArr": [
+                          {
+                              "calculator_id": 13,
+                              "calculator_name": "Reguler",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-06-30 17:00:56",
+                              "calculator_end_date": "2024-07-28 16:59:05",
+                              "calculator_show_interest_rate": false,
+                              "interestRate": 8.2,
+                              "insuranceRate": 7.4,
+                              "installment": 28910000,
+                              "totalFirstPayment": 284010000,
+                              "totalBayar": 2018610000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          }
+                      ],
+                      "lowestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 7.4,
+                          "installment": 28910000,
+                          "totalFirstPayment": 284010000,
+                          "totalBayar": 2018610000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      },
+                      "highestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 7.4,
+                          "installment": 28910000,
+                          "totalFirstPayment": 284010000,
+                          "totalBayar": 2018610000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "id": "faf91d53-ac9e-44e8-b52d-af7b27a34dd7",
+          "brand": "Toyota",
+          "model": "Land Cruiser",
+          "model_slug": "land-cruiser-691e3a35-40a6-4f61-a683-dcde1ed7241a",
+          "height": "1905",
+          "length": "4950",
+          "width": "1970",
+          "rasioBahanBakar": "1 : 9",
+          "lowestAssetPrice": 2583900000,
+          "highestAssetPrice": 2659100000,
+          "lowestDpAmount": 516780000,
+          "lowestMonthlyInstallment": 53080000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/Toyota/Land Cruiser/main_color/main_banner_toyota_land_cruiser_black1.png",
+              "https://images.prod.seva.id/Toyota/Land Cruiser/gallery/Rear-Combination-Lamp.jpg"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "d62c40f9-24bf-44f6-af2a-ba2c329bcca2",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 516780000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 53080000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 2583900000,
+                  "name": "300 VX-R 4x4 A/T (Non Premium Color)",
+                  "variant_slug": "300-vx-r-4x4-at-non-premium-color-fja300vxa_t24-d62c40f9-24bf-44f6-af2a-ba2c329bcca2",
+                  "transmission": "Otomatis",
+                  "fuelType": "Diesel",
+                  "engineCapacity": "4461",
+                  "seat": "7",
+                  "otrInfo": {
+                      "dealerCode": "TSO",
+                      "skuCode": "FJA300VXA/T24",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 516780000,
+                      "calculatorArr": [
+                          {
+                              "calculator_id": 13,
+                              "calculator_name": "Reguler",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-06-30 17:00:56",
+                              "calculator_end_date": "2024-07-28 16:59:05",
+                              "calculator_show_interest_rate": false,
+                              "interestRate": 8.2,
+                              "insuranceRate": null,
+                              "installment": 48580000,
+                              "totalFirstPayment": 519330000,
+                              "totalBayar": 3434130000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          }
+                      ],
+                      "lowestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": null,
+                          "installment": 48580000,
+                          "totalFirstPayment": 519330000,
+                          "totalBayar": 3434130000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      },
+                      "highestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": null,
+                          "installment": 48580000,
+                          "totalFirstPayment": 519330000,
+                          "totalBayar": 3434130000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      }
+                  }
+              }
+          ]
+      }
+  ],
+  "lowestCarPrice": 0,
+  "highestCarPrice": 0
+}

@@ -1,0 +1,55 @@
+const toyotaCars = require('../../fixtures/toyota-car-sanitize.json');
+
+before(() => {
+  Cypress.on('uncaught:exception', (err, runnable) => {
+    // returning false here prevents Cypress from
+    // failing the test
+    return false;
+  });
+});
+
+describe('Testing on Toyota brand', function () {
+  // Load the fixture before running the tests
+  before(() => {
+    cy.fixture('toyota-car-sanitize').as('toyota_cars');
+  });
+
+  beforeEach(() => {
+    // Intercept all network requests and suppress logs
+    cy.intercept(
+      {
+        // Match all URLs
+        url: '*',
+      },
+      (req) => {
+        req.on('before:response', (res) => {
+          // Suppress the log for this request
+          res.headers['x-cypress-log'] = 'false';
+        });
+      }
+    );
+  });
+
+  it('Toyota New Calya', () => {
+    cy.visit('https://www.seva.id/mobil-baru/toyota/new-calya/jakarta-pusat?loanRankCVL=Green&source=plp');
+    cy.wait(2000);
+    cy.get('[data-testid="text-car-brand-model"]').should('exist').should('have.text', 'Toyota New Calya');
+  });
+
+  // it('Test for each car', () => {
+  //   cy.fixture('toyota-car-sanitize').as('toyota_cars');
+  //   cy.get('@toyota_cars').each((car) => {
+  //     cy.visit(`https://www.seva.id/mobil-baru/toyota/${car.model_slug}/jakarta-pusat?loanRankCVL=Green&source=plp`);
+  //     cy.wait(2000);
+  //     cy.get('[data-testid="text-car-brand-model"]').should('exist').should('have.text', car.car_name);
+  //   });
+  // });
+
+  toyotaCars.forEach((car) => {
+    it(`Should display correct PDP for ${car.car_name}`, () => {
+      cy.visit(`https://www.seva.id/mobil-baru/${car.brand.toLowerCase()}/${car.model_slug}/jakarta-pusat?loanRankCVL=Green&source=plp`);
+      cy.wait(2000); // Tunggu sebentar agar halaman bisa dimuat
+      cy.get('[data-testid="text-car-brand-model"]').should('exist').and('have.text', car.car_name);
+    });
+  });
+})

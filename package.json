@@ -5,7 +5,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "cy:3-techno-app.open": "cypress run --spec cypress/e2e/3-techno-app/*.cy.js",
-    "cy:3-techno-app": "cypress run --headless --spec cypress/e2e/3-techno-app/*.cy.js"
+    "cy:3-techno-app": "cypress run --headless --spec cypress/e2e/3-techno-app/*.cy.js",
+    "cy:4.1-PLP-PDP" : "cypress run --headless --record --key 79010fbd-cecd-4af0-8458-76acc6a07407 --spec cypress/e2e/4-seva/4.1-PLP-to-PDP/*.cy.js"
   },
   "keywords": [],
   "author": "",

@@ -1,0 +1,58 @@
+[
+  {
+    "brand": "BMW",
+    "model": "3 series 320i Sport",
+    "car_name": "BMW 3 series 320i Sport",
+    "model_slug_raw": "3-series-320i-sport-a6e5a85b-cd84-477f-afe7-88fbc699470e",
+    "model_slug": "3-series-320i-sport"
+  },
+  {
+    "brand": "BMW",
+    "model": "3 Series 330i M Sport",
+    "car_name": "BMW 3 Series 330i M Sport",
+    "model_slug_raw": "3-series-330i-m-sport-492fcf33-48a9-4e0a-a21d-90350a0acb93",
+    "model_slug": "3-series-330i-m-sport"
+  },
+  {
+    "brand": "BMW",
+    "model": "5 series 520i M Sport",
+    "car_name": "BMW 5 series 520i M Sport",
+    "model_slug_raw": "5-series-520i-m-sport-868b434e-9866-4d60-b94e-e283ed0e8be8",
+    "model_slug": "5-series-520i-m-sport"
+  },
+  {
+    "brand": "BMW",
+    "model": "5 series 530i Opulence",
+    "car_name": "BMW 5 series 530i Opulence",
+    "model_slug_raw": "5-series-530i-opulence-5a0b7916-6cce-4bac-a33d-8ddc71080383",
+    "model_slug": "5-series-530i-opulence"
+  },
+  {
+    "brand": "BMW",
+    "model": "X5 xDrive40i X Line",
+    "car_name": "BMW X5 xDrive40i X Line",
+    "model_slug_raw": "x5-xdrive40i-x-line-69a3c516-1ee6-4250-9df5-5d93e3c0c73b",
+    "model_slug": "x5-xdrive40i-x-line"
+  },
+  {
+    "brand": "BMW",
+    "model": "7 series 730Li M Sport",
+    "car_name": "BMW 7 series 730Li M Sport",
+    "model_slug_raw": "7-series-730li-m-sport-7c4f5539-f8a3-4e4e-8795-c024ec43bfda",
+    "model_slug": "7-series-730li-m-sport"
+  },
+  {
+    "brand": "BMW",
+    "model": "7 series 740Li Opulence",
+    "car_name": "BMW 7 series 740Li Opulence",
+    "model_slug_raw": "7-series-740li-opulence-803b0e8b-9f19-417a-87ae-2de6747b31f4",
+    "model_slug": "7-series-740li-opulence"
+  },
+  {
+    "brand": "BMW",
+    "model": "X7 xDrive40i Opulence",
+    "car_name": "BMW X7 xDrive40i Opulence",
+    "model_slug_raw": "x7-xdrive40i-opulence-e4d9492c-e460-4ec7-8bd4-e5fc0efb8950",
+    "model_slug": "x7-xdrive40i-opulence"
+  }
+]

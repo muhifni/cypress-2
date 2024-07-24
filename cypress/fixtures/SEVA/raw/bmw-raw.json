@@ -1,0 +1,1055 @@
+{
+  "totalItems": 8,
+  "currentItems": 8,
+  "carRecommendations": [
+      {
+          "id": "4a567cdd-4c71-4fe8-8611-0f22230c5db0",
+          "brand": "BMW",
+          "model": "3 series 320i Sport",
+          "model_slug": "3-series-320i-sport-a6e5a85b-cd84-477f-afe7-88fbc699470e",
+          "height": "1435",
+          "length": "4709",
+          "width": "2068",
+          "rasioBahanBakar": "1 : 15.6",
+          "lowestAssetPrice": 1025000000,
+          "highestAssetPrice": 1025000000,
+          "lowestDpAmount": 205000000,
+          "lowestMonthlyInstallment": 21150000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/BMW/3 series 320i Sport/main_color/bmw_320_main_1.png",
+              "https://images.prod.seva.id/BMW/3 series 320i Sport/gallery/bmw_320_gallery_eksterior_5.png"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "81063752-cf24-4eb9-bbad-8f382c256b5e",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 205000000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 21150000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 1025000000,
+                  "name": "320i Sport",
+                  "variant_slug": "320i-sport-bmw320isport-81063752-cf24-4eb9-bbad-8f382c256b5e",
+                  "transmission": "Otomatis",
+                  "fuelType": "Bensin",
+                  "engineCapacity": "1998",
+                  "seat": "5",
+                  "otrInfo": {
+                      "dealerCode": "BSO",
+                      "skuCode": "BMW320ISPORT",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 205000000,
+                      "calculatorArr": [
+                          {
+                              "calculator_id": 13,
+                              "calculator_name": "Reguler",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-06-30 17:00:56",
+                              "calculator_end_date": "2024-07-28 16:59:05",
+                              "calculator_show_interest_rate": false,
+                              "interestRate": 8.2,
+                              "insuranceRate": 7.778,
+                              "installment": 21150000,
+                              "totalFirstPayment": 207550000,
+                              "totalBayar": 1476550000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          }
+                      ],
+                      "lowestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 7.778,
+                          "installment": 21150000,
+                          "totalFirstPayment": 207550000,
+                          "totalBayar": 1476550000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      },
+                      "highestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 7.778,
+                          "installment": 21150000,
+                          "totalFirstPayment": 207550000,
+                          "totalBayar": 1476550000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "id": "441fb02f-6a11-4cd3-ab97-e8cd31a73cc3",
+          "brand": "BMW",
+          "model": "3 Series 330i M Sport",
+          "model_slug": "3-series-330i-m-sport-492fcf33-48a9-4e0a-a21d-90350a0acb93",
+          "height": "1435",
+          "length": "4709",
+          "width": "2068",
+          "rasioBahanBakar": "1 : 15.9",
+          "lowestAssetPrice": 0,
+          "highestAssetPrice": 0,
+          "lowestDpAmount": 0,
+          "lowestMonthlyInstallment": 0,
+          "hasLiveVariant": false,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/BMW/3 series 330i M Sport/main_color/main_color_BMW_330iMSportPro_Black.png",
+              "https://images.prod.seva.id/BMW/3 series 330i M Sport/gallery/gallery_BMW_330iMSportPro_eksterior_4.png"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "ebbc6ef6-5baa-4cdd-a134-a84770a0b9a6",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 224000000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 23110000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 1120000000,
+                  "name": "330i M Sport Pro",
+                  "variant_slug": "330i-m-sport-pro-330imsport20",
+                  "transmission": "Otomatis",
+                  "fuelType": "Bensin",
+                  "engineCapacity": "1998",
+                  "seat": "5",
+                  "otrInfo": {
+                      "dealerCode": "BSO",
+                      "skuCode": "330IMSPORT20",
+                      "nik": 2024,
+                      "otrStatus": "draft"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 224000000,
+                      "calculatorArr": [
+                          {
+                              "calculator_id": 13,
+                              "calculator_name": "Reguler",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-06-30 17:00:56",
+                              "calculator_end_date": "2024-07-28 16:59:05",
+                              "calculator_show_interest_rate": false,
+                              "interestRate": 8.2,
+                              "insuranceRate": 7.778,
+                              "installment": 23110000,
+                              "totalFirstPayment": 226550000,
+                              "totalBayar": 1613150000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          }
+                      ],
+                      "lowestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 7.778,
+                          "installment": 23110000,
+                          "totalFirstPayment": 226550000,
+                          "totalBayar": 1613150000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      },
+                      "highestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 7.778,
+                          "installment": 23110000,
+                          "totalFirstPayment": 226550000,
+                          "totalBayar": 1613150000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "id": "afade0e2-9429-40c2-97d1-045caf38e73e",
+          "brand": "BMW",
+          "model": "5 series 520i M Sport",
+          "model_slug": "5-series-520i-m-sport-868b434e-9866-4d60-b94e-e283ed0e8be8",
+          "height": "1466",
+          "length": "4936",
+          "width": "1868",
+          "rasioBahanBakar": "1 :14.9",
+          "lowestAssetPrice": 1275000000,
+          "highestAssetPrice": 1275000000,
+          "lowestDpAmount": 255000000,
+          "lowestMonthlyInstallment": 26190000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/BMW/5 series 520i M Sport/main_color/main_banner_bmw_520iluxury_Black_Sapphire.png",
+              "https://images.prod.seva.id/BMW/5 series 520i M Sport/gallery/Through Loading System 1.JPG"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "c0de7652-a87e-4169-8724-aa07a0e071fa",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 255000000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 26190000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 1275000000,
+                  "name": "520i M Sport",
+                  "variant_slug": "520i-m-sport-520ilux20-c0de7652-a87e-4169-8724-aa07a0e071fa",
+                  "transmission": "Otomatis",
+                  "fuelType": "Bensin",
+                  "engineCapacity": "1998",
+                  "seat": "5",
+                  "otrInfo": {
+                      "dealerCode": "BSO",
+                      "skuCode": "520ILUX20",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 255000000,
+                      "calculatorArr": [
+                          {
+                              "calculator_id": 13,
+                              "calculator_name": "Reguler",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-06-30 17:00:56",
+                              "calculator_end_date": "2024-07-28 16:59:05",
+                              "calculator_show_interest_rate": false,
+                              "interestRate": 8.2,
+                              "insuranceRate": 7.4,
+                              "installment": 26190000,
+                              "totalFirstPayment": 257550000,
+                              "totalBayar": 1828950000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          }
+                      ],
+                      "lowestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 7.4,
+                          "installment": 26190000,
+                          "totalFirstPayment": 257550000,
+                          "totalBayar": 1828950000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      },
+                      "highestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 7.4,
+                          "installment": 26190000,
+                          "totalFirstPayment": 257550000,
+                          "totalBayar": 1828950000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "id": "7de0db36-e902-4620-bbe6-ff7fc2124cd0",
+          "brand": "BMW",
+          "model": "5 series 530i Opulence",
+          "model_slug": "5-series-530i-opulence-5a0b7916-6cce-4bac-a33d-8ddc71080383",
+          "height": "1466",
+          "length": "4936",
+          "width": "1868",
+          "rasioBahanBakar": "1 :14.9",
+          "lowestAssetPrice": 1525000000,
+          "highestAssetPrice": 1525000000,
+          "lowestDpAmount": 305000000,
+          "lowestMonthlyInstallment": 31330000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/BMW/5 series 530i Opulence/main_color/main_banner_BMW_530iMSport_Black_Sapphire.png",
+              "https://images.prod.seva.id/BMW/5 series 530i Opulence/gallery/galeri_bmw_530i_eksterior_3.jpg"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "7ba3c621-f0a5-45c6-afe1-30e2c6dcf1f1",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 305000000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 31330000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 1525000000,
+                  "name": "530i Opulence",
+                  "variant_slug": "530i-opulence-530imsport20-7ba3c621-f0a5-45c6-afe1-30e2c6dcf1f1",
+                  "transmission": "Otomatis",
+                  "fuelType": "Bensin",
+                  "engineCapacity": "1998",
+                  "seat": "5",
+                  "otrInfo": {
+                      "dealerCode": "BSO",
+                      "skuCode": "530IMSPORT20",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 305000000,
+                      "calculatorArr": [
+                          {
+                              "calculator_id": 13,
+                              "calculator_name": "Reguler",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-06-30 17:00:56",
+                              "calculator_end_date": "2024-07-28 16:59:05",
+                              "calculator_show_interest_rate": false,
+                              "interestRate": 8.2,
+                              "insuranceRate": 7.4,
+                              "installment": 31330000,
+                              "totalFirstPayment": 307550000,
+                              "totalBayar": 2187350000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          }
+                      ],
+                      "lowestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 7.4,
+                          "installment": 31330000,
+                          "totalFirstPayment": 307550000,
+                          "totalBayar": 2187350000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      },
+                      "highestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 7.4,
+                          "installment": 31330000,
+                          "totalFirstPayment": 307550000,
+                          "totalBayar": 2187350000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "id": "08e2b456-9cb4-46d0-82c8-acba35890f06",
+          "brand": "BMW",
+          "model": "X5 xDrive40i X Line",
+          "model_slug": "x5-xdrive40i-x-line-69a3c516-1ee6-4250-9df5-5d93e3c0c73b",
+          "height": "1745",
+          "length": "4922",
+          "width": "2004",
+          "rasioBahanBakar": "1 : 10.8",
+          "lowestAssetPrice": 1820000000,
+          "highestAssetPrice": 1820000000,
+          "lowestDpAmount": 364000000,
+          "lowestMonthlyInstallment": 37390000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/BMW/X5 xDrive40i X Line/main_color/main_banner_BMW_X5XdRIVE40iXline_Black_Sapphire_.png",
+              "https://images.prod.seva.id/BMW/X5 xDrive40i X Line/gallery/BMW Individual exterior line Aluminium Satinated.JPG"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "34fe3b35-7e6e-494c-8773-314705740733",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 364000000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 37390000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 1820000000,
+                  "name": "X5 xDrive40i X Line",
+                  "variant_slug": "x5-xdrive40i-x-line-x5xdr40ixl20-34fe3b35-7e6e-494c-8773-314705740733",
+                  "transmission": "Otomatis",
+                  "fuelType": "Bensin",
+                  "engineCapacity": "2998",
+                  "seat": "5",
+                  "otrInfo": {
+                      "dealerCode": "BSO",
+                      "skuCode": "X5XDR40IXL20",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 364000000,
+                      "calculatorArr": [
+                          {
+                              "calculator_id": 13,
+                              "calculator_name": "Reguler",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-06-30 17:00:56",
+                              "calculator_end_date": "2024-07-28 16:59:05",
+                              "calculator_show_interest_rate": false,
+                              "interestRate": 8.2,
+                              "insuranceRate": 7.4,
+                              "installment": 37390000,
+                              "totalFirstPayment": 366550000,
+                              "totalBayar": 2609950000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          }
+                      ],
+                      "lowestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 7.4,
+                          "installment": 37390000,
+                          "totalFirstPayment": 366550000,
+                          "totalBayar": 2609950000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      },
+                      "highestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": 7.4,
+                          "installment": 37390000,
+                          "totalFirstPayment": 366550000,
+                          "totalBayar": 2609950000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "id": "3a21a7f5-b79b-4f47-abb8-8d7dd6b19516",
+          "brand": "BMW",
+          "model": "7 series 730Li M Sport",
+          "model_slug": "7-series-730li-m-sport-7c4f5539-f8a3-4e4e-8795-c024ec43bfda",
+          "height": "1467",
+          "length": "5260",
+          "width": "1902",
+          "rasioBahanBakar": "1 : 14",
+          "lowestAssetPrice": 2170000000,
+          "highestAssetPrice": 2170000000,
+          "lowestDpAmount": 434000000,
+          "lowestMonthlyInstallment": 44570000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/BMW/7 series 730Li M Sport/main_color/main_banner_BMW730LiMSport_Black_Sapphire.png",
+              "https://images.prod.seva.id/BMW/7 series 730Li M Sport/gallery/BMW Individual High-Gloss.JPG"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "ccd9b425-19d3-49b0-a970-67aeff02f2c0",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 434000000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 44570000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 2170000000,
+                  "name": "730 Li M Sport",
+                  "variant_slug": "730-li-m-sport-730limsprt20-ccd9b425-19d3-49b0-a970-67aeff02f2c0",
+                  "transmission": "Otomatis",
+                  "fuelType": "Bensin",
+                  "engineCapacity": "1998",
+                  "seat": "5",
+                  "otrInfo": {
+                      "dealerCode": "BSO",
+                      "skuCode": "730LIMSPRT20",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 434000000,
+                      "calculatorArr": [
+                          {
+                              "calculator_id": 13,
+                              "calculator_name": "Reguler",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-06-30 17:00:56",
+                              "calculator_end_date": "2024-07-28 16:59:05",
+                              "calculator_show_interest_rate": false,
+                              "interestRate": 8.2,
+                              "insuranceRate": null,
+                              "installment": 40800000,
+                              "totalFirstPayment": 436550000,
+                              "totalBayar": 2884550000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          }
+                      ],
+                      "lowestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": null,
+                          "installment": 40800000,
+                          "totalFirstPayment": 436550000,
+                          "totalBayar": 2884550000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      },
+                      "highestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": null,
+                          "installment": 40800000,
+                          "totalFirstPayment": 436550000,
+                          "totalBayar": 2884550000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "id": "3228f1ba-af30-4913-a5de-84e41c4d189b",
+          "brand": "BMW",
+          "model": "7 series 740Li Opulence",
+          "model_slug": "7-series-740li-opulence-803b0e8b-9f19-417a-87ae-2de6747b31f4",
+          "height": "1479",
+          "length": "5260",
+          "width": "1902",
+          "rasioBahanBakar": "1 : 14",
+          "lowestAssetPrice": 2590000000,
+          "highestAssetPrice": 2590000000,
+          "lowestDpAmount": 518000000,
+          "lowestMonthlyInstallment": 53200000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/BMW/7 series 740Li Opulence/main_color/main_banner_BMW_740LiOpulence_Black_Sapphire.png"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "9b917181-565b-4ab9-8031-1abdeddb95b0",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 518000000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 53200000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 2590000000,
+                  "name": "740Li Opulence",
+                  "variant_slug": "740li-opulence-740liop20-9b917181-565b-4ab9-8031-1abdeddb95b0",
+                  "transmission": "Otomatis",
+                  "fuelType": "Bensin",
+                  "engineCapacity": "2998",
+                  "seat": "5",
+                  "otrInfo": {
+                      "dealerCode": "BSO",
+                      "skuCode": "740LIOP20",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 518000000,
+                      "calculatorArr": [
+                          {
+                              "calculator_id": 13,
+                              "calculator_name": "Reguler",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-06-30 17:00:56",
+                              "calculator_end_date": "2024-07-28 16:59:05",
+                              "calculator_show_interest_rate": false,
+                              "interestRate": 8.2,
+                              "insuranceRate": null,
+                              "installment": 48700000,
+                              "totalFirstPayment": 520550000,
+                              "totalBayar": 3442550000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          }
+                      ],
+                      "lowestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": null,
+                          "installment": 48700000,
+                          "totalFirstPayment": 520550000,
+                          "totalBayar": 3442550000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      },
+                      "highestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": null,
+                          "installment": 48700000,
+                          "totalFirstPayment": 520550000,
+                          "totalBayar": 3442550000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "id": "73d51533-dd2b-40d4-b057-e28664d12d50",
+          "brand": "BMW",
+          "model": "X7 xDrive40i Opulence",
+          "model_slug": "x7-xdrive40i-opulence-e4d9492c-e460-4ec7-8bd4-e5fc0efb8950",
+          "height": "1805",
+          "length": "5151",
+          "width": "2000",
+          "rasioBahanBakar": "1 : 9.7",
+          "lowestAssetPrice": 2620000000,
+          "highestAssetPrice": 2620000000,
+          "lowestDpAmount": 524000000,
+          "lowestMonthlyInstallment": 53820000,
+          "hasLiveVariant": true,
+          "loanRank": "Green",
+          "image": "",
+          "images": [
+              "https://images.prod.seva.id/BMW/X7 xDrive40i Opulence/main_color/main_banner_BMWX7_xDrive40iBMW_Black_Sapphire.png",
+              "https://images.prod.seva.id/BMW/X7 xDrive40i Opulence/gallery/BMWX7_eks_3.jpg"
+          ],
+          "numberOfPopulation": 0,
+          "isPassengerCar": true,
+          "variants": [
+              {
+                  "id": "e4406bc6-cbde-48cf-a217-1ec6f73e8a25",
+                  "loanRank": "Green",
+                  "tenure": 5,
+                  "dpAmount": 524000000,
+                  "dpDiscount": 0,
+                  "monthlyInstallment": 53820000,
+                  "interestRate": 8.2,
+                  "angsuranType": "ADDB",
+                  "interestSpekta": 0,
+                  "dp": 0.2,
+                  "priceValue": 2620000000,
+                  "name": "X7 xDrive40i Opulence",
+                  "variant_slug": "x7-xdrive40i-opulence-bmwx7xdr40iopu-e4406bc6-cbde-48cf-a217-1ec6f73e8a25",
+                  "transmission": "Otomatis",
+                  "fuelType": "Bensin",
+                  "engineCapacity": "2998",
+                  "seat": "6",
+                  "otrInfo": {
+                      "dealerCode": "BSO",
+                      "skuCode": "BMWX7XDR40IOPU",
+                      "nik": 2024,
+                      "otrStatus": "live"
+                  },
+                  "calculator": {
+                      "tenure": 5,
+                      "dpAmount": 524000000,
+                      "calculatorArr": [
+                          {
+                              "calculator_id": 13,
+                              "calculator_name": "Reguler",
+                              "calculator_code": "",
+                              "calculator_start_date": "2024-06-30 17:00:56",
+                              "calculator_end_date": "2024-07-28 16:59:05",
+                              "calculator_show_interest_rate": false,
+                              "interestRate": 8.2,
+                              "insuranceRate": null,
+                              "installment": 49260000,
+                              "totalFirstPayment": 526550000,
+                              "totalBayar": 3482150000,
+                              "promoArr": [
+                                  {
+                                      "promo_id": 5,
+                                      "promo_name": "Undian SEVA",
+                                      "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                      "promo_type": "Others",
+                                      "start_date": "2024-07-15T17:00:02.000Z",
+                                      "end_date": "2024-07-28T16:59:10.000Z",
+                                      "promo_amount": 0
+                                  }
+                              ],
+                              "loanRank": "-"
+                          }
+                      ],
+                      "lowestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": null,
+                          "installment": 49260000,
+                          "totalFirstPayment": 526550000,
+                          "totalBayar": 3482150000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      },
+                      "highestCalculator": {
+                          "calculator_id": 13,
+                          "calculator_name": "Reguler",
+                          "calculator_code": "",
+                          "calculator_start_date": "2024-06-30 17:00:56",
+                          "calculator_end_date": "2024-07-28 16:59:05",
+                          "calculator_show_interest_rate": false,
+                          "interestRate": 8.2,
+                          "insuranceRate": null,
+                          "installment": 49260000,
+                          "totalFirstPayment": 526550000,
+                          "totalBayar": 3482150000,
+                          "promoArr": [
+                              {
+                                  "promo_id": 5,
+                                  "promo_name": "Undian SEVA",
+                                  "promo_desc": "Menangkan hadiah utama logam Mulia 67 gr, 2 Honda Beat CBS, Apple Watch SE, dll dengan transaksi melalui SEVA di GIIAS. S&K Berlaku.",
+                                  "promo_type": "Others",
+                                  "start_date": "2024-07-15T17:00:02.000Z",
+                                  "end_date": "2024-07-28T16:59:10.000Z",
+                                  "promo_amount": 0
+                              }
+                          ],
+                          "loanRank": "-"
+                      }
+                  }
+              }
+          ]
+      }
+  ],
+  "lowestCarPrice": 0,
+  "highestCarPrice": 0
+}

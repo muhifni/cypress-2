@@ -130,5 +130,6 @@ dist
 .pnp.*
 
 # cypress
-screenshots/*
+cypress/screenshots/*
+cypress/screenshots/
 cypress.config.js

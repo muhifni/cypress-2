@@ -1,0 +1,50 @@
+[
+  {
+    "brand": "Daihatsu",
+    "model": "All New Ayla",
+    "car_name": "Daihatsu All New Ayla",
+    "model_slug": "all-new-ayla"
+  },
+  {
+    "brand": "Daihatsu",
+    "model": "Sigra",
+    "car_name": "Daihatsu Sigra",
+    "model_slug": "sigra"
+  },
+  {
+    "brand": "Daihatsu",
+    "model": "Granmax PU",
+    "car_name": "Daihatsu Granmax PU",
+    "model_slug": "granmax-pu"
+  },
+  {
+    "brand": "Daihatsu",
+    "model": "Granmax BV",
+    "car_name": "Daihatsu Granmax BV",
+    "model_slug": "granmax-bv"
+  },
+  {
+    "brand": "Daihatsu",
+    "model": "Granmax MB",
+    "car_name": "Daihatsu Granmax MB",
+    "model_slug": "granmax-mb"
+  },
+  {
+    "brand": "Daihatsu",
+    "model": "All New Xenia",
+    "car_name": "Daihatsu All New Xenia",
+    "model_slug": "all-new-xenia"
+  },
+  {
+    "brand": "Daihatsu",
+    "model": "New Sirion",
+    "car_name": "Daihatsu New Sirion",
+    "model_slug": "new-sirion"
+  },
+  {
+    "brand": "Daihatsu",
+    "model": "New Luxio",
+    "car_name": "Daihatsu New Luxio",
+    "model_slug": "new-luxio"
+  }
+]
