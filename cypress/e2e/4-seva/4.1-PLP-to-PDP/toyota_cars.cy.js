@@ -8,7 +8,7 @@ before(() => {
   });
 });
 
-describe('Testing on Toyota brand', function () {
+describe('Testing on Toyota brand', { testIsolation: false }, function () {
   beforeEach(() => {
     // Intercept all network requests and suppress logs
     cy.intercept(
