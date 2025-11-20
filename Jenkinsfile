@@ -20,7 +20,8 @@ pipeline {
             steps {
                 sh 'node -v'
                 sh 'npm -v'
-                sh 'npm ci'
+                //sh 'npm ci'
+                sh 'npm install'
             }
         }
 
