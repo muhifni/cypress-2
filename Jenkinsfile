@@ -1,5 +1,11 @@
 pipeline {
-    agent any
+   // agent any
+     agent {
+        docker {
+            image 'cypress/included:13.12.0'
+            args '-u root' // supaya bisa install kalau perlu
+        }
+    }
 
     options {
         timestamps()
