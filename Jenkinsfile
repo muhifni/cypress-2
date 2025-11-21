@@ -1,9 +1,5 @@
 pipeline {
-  agent {
-    docker {
-      image 'cypress/included:13.12.0'
-    }
-  }
+  agent any
 
   options {
     ansiColor('xterm')
@@ -26,6 +22,7 @@ pipeline {
 
     stage('Install Dependencies') {
       steps {
+        sh 'apt-get update && apt-get install -y xvfb'
         sh 'npm ci || npm install'
       }
     }
