@@ -1,55 +1,53 @@
 pipeline {
-   agent any
+  agent {
+    docker {
+      image 'cypress/included:12.17.3'
+    }
+  }
 
-    options {
-       // timestamps()
-        ansiColor('xterm')
+  options {
+    ansiColor('xterm')
+  }
+
+  environment {
+    NODE_ENV = 'test'
+  }
+
+  stages {
+    stage('Checkout') {
+      steps {
+        checkout scm
+      }
     }
 
-    environment {
-        NODE_ENV = 'test'
+    stage('Install Dependencies') {
+      steps {
+        sh 'npm ci'
+      }
     }
 
-    stages {
-        stage('Checkout') {
-            steps {
-                checkout scm
-            }
-        }
-
-        stage('Install Dependencies') {
-            steps {
-                sh 'node -v'
-                sh 'npm -v'
-                //sh 'npm ci'
-                sh 'npm install'
-            }
-        }
-
-        stage('Run Cypress Tests') {
-            steps {
-                sh 'npx cypress run --headless --browser chrome'
-            }
-        }
-
-        stage('Archive Artifacts') {
-            steps {
-                // Simpan video/screenshot hasil test (kalau ada)
-                archiveArtifacts artifacts: 'cypress/videos/**, cypress/screenshots/**', allowEmptyArchive: true
-            }
-        }
+    stage('Run Cypress Tests') {
+      steps {
+        sh 'npx cypress run --headless --browser chrome'
+      }
     }
 
-    post {
-        always {
-            // Bersihkan workspace setelah build
-            cleanWs()
-        }
-        failure {
-            echo '❌ Cypress tests failed!'
-        }
-        success {
-            echo '✅ Cypress tests passed!'
-        }
+    stage('Archive Artifacts') {
+      steps {
+        archiveArtifacts artifacts: 'cypress/videos/**, cypress/screenshots/**', allowEmptyArchive: true
+      }
     }
+  }
+
+  post {
+    always {
+      cleanWs()
+    }
+    failure {
+      echo '❌ Cypress tests failed!'
+    }
+    success {
+      echo '✅ Cypress tests passed!'
+    }
+  }
 }
