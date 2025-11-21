@@ -28,7 +28,7 @@ pipeline {
 
     stage('Run Cypress Tests') {
       steps {
-        sh 'npx cypress run --headless --browser chrome --spec "cypress/e2e/1-getting-started/*.cy.js"'
+        sh 'npx cypress run --headless --browser chromium --spec "cypress/e2e/1-getting-started/*.cy.js"'
       }
     }
 
