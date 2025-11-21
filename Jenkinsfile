@@ -5,6 +5,10 @@ pipeline {
     ansiColor('xterm')
   }
 
+  tools {
+    nodejs "NodeJS_24.0.0"
+  }
+
   environment {
     NODE_ENV = 'test'
   }
