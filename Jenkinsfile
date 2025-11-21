@@ -1,9 +1,5 @@
 pipeline {
-  agent {
-    docker {
-      image 'cypress/included'
-    }
-  } 
+  agent any
 
   options {
     ansiColor('xterm')
