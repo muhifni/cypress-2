@@ -1,8 +1,5 @@
 pipeline {
   agent {
-    docker {
-      image 'cypress/included:12.17.3'
-    }
   }
 
   options {
