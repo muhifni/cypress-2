@@ -98,3 +98,11 @@ Cypress.Commands.add('notificationWhatsApp', (userName) => {
     expect(response.status).to.eq(200);
   });
 });
+
+Cypress.Commands.add('updateFixtureUserVPN', (updatedData) => {
+  const fs = require('fs');
+  const path = `cypress/fixtures/user-vpn-techno.json`;
+
+  // Simpan file baru ke sistem
+  fs.writeFileSync(path, JSON.stringify(updatedData, null, 2));
+});

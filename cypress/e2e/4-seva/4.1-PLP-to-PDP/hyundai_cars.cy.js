@@ -9,21 +9,21 @@ before(() => {
 });
 
 describe('Testing on Hyundai brand', { testIsolation: false }, function () {
-  beforeEach(() => {
-    // Intercept all network requests and suppress logs
-    cy.intercept(
-      {
-        // Match all URLs
-        url: '*',
-      },
-      (req) => {
-        req.on('before:response', (res) => {
-          // Suppress the log for this request
-          res.headers['x-cypress-log'] = 'false';
-        });
-      }
-    );
-  });
+  // beforeEach(() => {
+  //   // Intercept all network requests and suppress logs
+  //   cy.intercept(
+  //     {
+  //       // Match all URLs
+  //       url: '*',
+  //     },
+  //     (req) => {
+  //       req.on('before:response', (res) => {
+  //         // Suppress the log for this request
+  //         res.headers['x-cypress-log'] = 'false';
+  //       });
+  //     }
+  //   );
+  // });
 
   hyundaiCars.forEach((car) => {
     it(`Should display correct PDP for ${car.car_name}`, () => {
