@@ -11,13 +11,13 @@ describe("Timesheet Muhammad Hifni", () => {
 
   // Load the fixture before running the tests
   before(() => {
-    cy.fixture("timesheet/timesheet-nov-25").as("timesheetData");
+    cy.fixture("timesheet/2025/timesheet-des-25").as("timesheetData");
   });
 
   it("Fill in the timesheet", function () {
     cy.loginTechnoApp(userName);
 
-    cy.visit("https://technoapp.berijalan.id/productivity/timesheet/3824");
+    cy.visit("https://technoapp.berijalan.id/productivity/timesheet/3847");
 
     // Loop through each object in the fixture array
     this.timesheetData.forEach((entry, index) => {
@@ -63,7 +63,7 @@ describe("Timesheet Muhammad Hifni", () => {
       }
     });
 
-    // Save the entries
-    //     cy.get('button[type="submit"]').click();
+    // Update the timesheet
+    cy.get("#button-update").should("contain", "Update").click();
   });
 });
