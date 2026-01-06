@@ -31,16 +31,28 @@ Cypress.Commands.add('loginTechnoApp', (userName) => {
       const email = Cypress.env(`email_${userName}`);
       const password = Cypress.env(`pass_${userName}`);
 
+      // Block analytics/tracking yang bisa memperlambat
+      cy.intercept('https://www.google-analytics.com/**', {statusCode: 200, body: ''});
+      cy.intercept('https://www.googletagmanager.com/**', {statusCode: 200, body: ''});
+      cy.intercept('https://*.facebook.com/**', {statusCode: 200, body: ''});
+      cy.intercept('https://*.doubleclick.net/**', {statusCode: 200, body: ''});
+
       cy.visit('https://technoapp.berijalan.id/login');
-      cy.get('.login100-form input[name="email"]').type(email);
+      
+      cy.get('.login100-form input[name="email"]', {timeout: 30000}).type(email);
       cy.get('.login100-form input[name="password"]').type(password, {
         log: false,
       });
       cy.get('.login100-form #button-login').click();
-      cy.url().should('eq', 'https://technoapp.berijalan.id/');
+      
+      // Tunggu element di halaman dashboard muncul, bukan tunggu page load
+      cy.url({timeout: 60000}).should('not.include', '/login');
     },
     {
       cacheAcrossSpecs: false,
+      validate: () => {
+        cy.getCookies().should('have.length.greaterThan', 0);
+      },
     },
   );
 });

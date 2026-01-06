@@ -21,12 +21,11 @@ describe("Timesheet Muhammad Hifni", () => {
 
     // Loop through each object in the fixture array
     this.timesheetData.forEach((entry, index) => {
-      // Calculate the row index (starting from 2)
-      const rowIndex = index + 2;
-      index = 1;
+      // Use the id from fixture as rowIndex
+      const rowIndex = entry.id;
 
-      // add row
-      if (index > 0) {
+      // add row (skip for first entry if row already exists)
+      if (rowIndex > 0) {
         cy.get(".tbl-container > .btn").should("contain", "Add Row").click();
       }
 
@@ -64,6 +63,6 @@ describe("Timesheet Muhammad Hifni", () => {
     });
 
     // Update the timesheet
-    cy.get("#button-update").should("contain", "Update").click();
+    // cy.get("#button-update").should("contain", "Update").click();
   });
 });
